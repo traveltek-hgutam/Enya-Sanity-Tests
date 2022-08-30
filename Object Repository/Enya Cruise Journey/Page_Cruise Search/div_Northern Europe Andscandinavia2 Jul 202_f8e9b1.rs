@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Northern Europe Andscandinavia2 Jul 202_f8e9b1</name>
+   <tag></tag>
+   <elementGuidId>31f3e7d4-aefa-4347-ad52-2ca2d9b891a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ms-StackItem.css-190</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/ul/li/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3e6d8426-e4d5-4125-935f-456a6e49589f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-StackItem css-190</value>
+      <webElementGuid>120f77fb-ad82-4304-a464-85cf5091d2db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Northern Europe Andscandinavia2 Jul 20249 NightsEuropeQueen AnneItinerary:Hamburg > Copenhagen > Visby > Tallinn > Helsinki > Stockholm > Kiel</value>
+      <webElementGuid>e7466ad9-94e5-4fc3-bf4c-fa4ed4a8601a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ GridRow-module--grid-row--padded--fWrJ3&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-9--3CuBP GridColumn-module--grid-column--padded--TTiI2&quot;]/div[@class=&quot;ms-Stack css-160&quot;]/ul[@class=&quot;ResultsList-module--list--+ZCDo List-module--list-unstyled--OYpBm&quot;]/li[@class=&quot;ResultsListItem-module--container--3g6pa&quot;]/div[@class=&quot;ms-Stack css-185&quot;]/div[@class=&quot;ms-StackItem css-190&quot;]</value>
+      <webElementGuid>93652fbb-560c-4ed0-8b92-6085d7cc14e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/ul/li/div/div[2]</value>
+      <webElementGuid>9be219f9-811e-4d84-9d3b-91aa913fc638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(found: 980, showing: 980)'])[1]/following::div[4]</value>
+      <webElementGuid>1e243d45-01bb-435a-a6b8-c45b97cf0688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Results'])[1]/following::div[5]</value>
+      <webElementGuid>7d3ec51a-4508-4bec-8c34-963428db3405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div[2]</value>
+      <webElementGuid>2af7c46d-bc8e-41ce-bf32-507db725f035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Northern Europe Andscandinavia2 Jul 20249 NightsEuropeQueen AnneItinerary:Hamburg > Copenhagen > Visby > Tallinn > Helsinki > Stockholm > Kiel' or . = 'Northern Europe Andscandinavia2 Jul 20249 NightsEuropeQueen AnneItinerary:Hamburg > Copenhagen > Visby > Tallinn > Helsinki > Stockholm > Kiel')]</value>
+      <webElementGuid>72fe25ec-19ac-425d-a72b-540c82f82db2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Results</name>
+   <tag></tag>
+   <elementGuidId>9b1f8660-dea9-4835-b224-962e1673a373</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.Text-module--size-XL--w-jB3.Text-module--weight-bold--4V08K.Text-module--text-gray--n4cFu.Text-module--font-normal--fJlvn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/div[2]/div/h2/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>958c0b83-ed64-4537-92e4-0adb13bc1d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text-module--size-XL--w-jB3 Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn</value>
+      <webElementGuid>71d9fbf3-aa37-4853-8d09-9a9e695e57f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Results</value>
+      <webElementGuid>9802aa8e-c1f0-493a-9d9a-11980b10402e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ GridRow-module--grid-row--padded--fWrJ3&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-9--3CuBP GridColumn-module--grid-column--padded--TTiI2&quot;]/div[@class=&quot;ms-Stack css-160&quot;]/div[@class=&quot;ms-Stack css-182&quot;]/div[@class=&quot;ms-StackItem css-183&quot;]/h2[@class=&quot;Heading-module--title--V5kOu Heading-module--title-2--cdX8G Heading-module--weight-normal--lFvwH&quot;]/span[@class=&quot;Text-module--size-XL--w-jB3 Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn&quot;]</value>
+      <webElementGuid>283d1f49-440a-4b9f-86ee-3e6fa67def04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/div[2]/div/h2/span</value>
+      <webElementGuid>590eedb2-29ce-4795-b048-4836a6ab12d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='results'])[1]/following::span[1]</value>
+      <webElementGuid>12c92fdc-9192-4cc2-a2c8-5c4f71160eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(found: 980, showing: 980)'])[1]/preceding::span[1]</value>
+      <webElementGuid>479a333d-32d5-43d2-ae0d-f5a110b40340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Northern Europe Andscandinavia'])[1]/preceding::span[2]</value>
+      <webElementGuid>13e7253a-7174-4157-bf9f-a2ce974cf53e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Results']/parent::*</value>
+      <webElementGuid>63e033b0-67c0-4ae3-aba1-1e59975cbe76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h2/span</value>
+      <webElementGuid>f18faf9a-00ac-4a9c-9413-66c1a832b54c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Results' or . = 'Results')]</value>
+      <webElementGuid>f31dd27a-adcd-40b2-bad4-1aba6ce6e569</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

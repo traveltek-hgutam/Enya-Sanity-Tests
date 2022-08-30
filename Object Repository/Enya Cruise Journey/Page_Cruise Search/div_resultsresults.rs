@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_resultsresults</name>
+   <tag></tag>
+   <elementGuidId>bb8ace17-2d3b-417e-b8f8-76b8b32a0cfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ms-Breadcrumb-item.item-177 > div.ms-TooltipHost.root-180</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/div/div/div/div/div/ol/li[2]/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bde9c470-38df-43f7-8b72-2748129bda91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-TooltipHost root-180</value>
+      <webElementGuid>11d261de-3e15-4d77-9950-5fd47b7ae58f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>6334e32c-7736-42cd-aa40-f9fd16f376ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>resultsresults</value>
+      <webElementGuid>235fbc0f-9b7a-4cba-82de-4003bed59f02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ GridRow-module--grid-row--padded--fWrJ3&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-9--3CuBP GridColumn-module--grid-column--padded--TTiI2&quot;]/div[@class=&quot;ms-Stack css-160&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;ms-Breadcrumb root-170&quot;]/div[@class=&quot;ms-FocusZone css-178&quot;]/ol[@class=&quot;ms-Breadcrumb-list list-171&quot;]/li[@class=&quot;ms-Breadcrumb-listItem listItem-172&quot;]/span[@class=&quot;ms-Breadcrumb-item item-177&quot;]/div[@class=&quot;ms-TooltipHost root-180&quot;]</value>
+      <webElementGuid>35ee8b27-8aa1-49a7-b6f4-908f475209f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/div/div/div/div/div/ol/li[2]/span/div</value>
+      <webElementGuid>22827a82-d92d-4bc5-a9a0-0203b9cf5cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='search'])[1]/following::div[1]</value>
+      <webElementGuid>6728753b-1340-4f17-a1ad-63daf23d8639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Results'])[1]/preceding::div[2]</value>
+      <webElementGuid>245685dc-980a-48a1-a598-bea97ed7b0b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='results']/parent::*</value>
+      <webElementGuid>3cf7940a-ec0d-4232-b10b-483874eefd29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>bde5ea9c-5bf9-4323-8217-8b310261bd46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'resultsresults' or . = 'resultsresults')]</value>
+      <webElementGuid>d65d68e2-b077-4601-8abc-d7ceb8bcacd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

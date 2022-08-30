@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Itinerary</name>
+   <tag></tag>
+   <elementGuidId>9c71ed1e-88e8-4360-af6c-afa64e94d949</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.Text-module--size-S--AI2gH.Text-module--weight-bold--4V08K.Text-module--text-gray--n4cFu.Text-module--font-normal--fJlvn.DetailsSection-module--itineraryLabel--Vp6XE</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/ul/li/div/div[2]/div[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93963e7c-c2b5-4e37-9215-794d70935c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text-module--size-S--AI2gH Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn DetailsSection-module--itineraryLabel--Vp6XE</value>
+      <webElementGuid>ade9fd31-4a3c-4c05-a3ed-9e9d2f5fa085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Itinerary:</value>
+      <webElementGuid>69bfce91-d89c-4d72-8766-df950e24d7c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ GridRow-module--grid-row--padded--fWrJ3&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-9--3CuBP GridColumn-module--grid-column--padded--TTiI2&quot;]/div[@class=&quot;ms-Stack css-160&quot;]/ul[@class=&quot;ResultsList-module--list--+ZCDo List-module--list-unstyled--OYpBm&quot;]/li[@class=&quot;ResultsListItem-module--container--3g6pa&quot;]/div[@class=&quot;ms-Stack css-185&quot;]/div[@class=&quot;ms-StackItem css-190&quot;]/div[@class=&quot;GridRow-module--grid-row--inJvQ DetailsSection-module--itinerary--LNGkU GridRow-module--grid-row--padded--fWrJ3&quot;]/span[@class=&quot;Text-module--size-S--AI2gH Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn DetailsSection-module--itineraryLabel--Vp6XE&quot;]</value>
+      <webElementGuid>bab138c0-810b-49ca-a409-7034cf60d142</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/ul/li/div/div[2]/div[4]/span</value>
+      <webElementGuid>d3ea96ae-ece6-4af4-aeb9-46ff835b83ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Queen Anne'])[1]/following::span[1]</value>
+      <webElementGuid>0043a4d0-16df-4a1c-b02b-fe0c3dbf59c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Europe'])[1]/following::span[2]</value>
+      <webElementGuid>fdc39e3e-73d4-40e7-9a08-ffbc2e4ab7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hamburg > Copenhagen > Visby > Tallinn > Helsinki > Stockholm > Kiel'])[1]/preceding::span[1]</value>
+      <webElementGuid>c78c5b78-b9be-48a9-845e-7a55c53632f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRICES FROM:'])[1]/preceding::span[2]</value>
+      <webElementGuid>a2c3000f-fe97-4cc8-9e7d-4d374b595816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Itinerary:']/parent::*</value>
+      <webElementGuid>968e8a5d-58c6-4180-87b0-6b6b8756dc16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span</value>
+      <webElementGuid>4036f4fb-fa93-418e-9944-d904faf18df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Itinerary:' or . = 'Itinerary:')]</value>
+      <webElementGuid>239a352e-a92f-4d75-b12f-23271adf7d54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

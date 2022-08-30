@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_(found 980, showing 980)_ms-Image-image_74fe7e</name>
+   <tag></tag>
+   <elementGuidId>6a4fd177-afd1-4ef9-9005-0b363267fcdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.ms-Image-image.is-loaded.ms-Image-image--cover.ms-Image-image--landscape.is-fadeIn.image-222</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/ul/li/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a48a71ed-811f-4195-a1ff-78ad1a779d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Image of Queen Anne</value>
+      <webElementGuid>2ae0df92-5903-4908-8f0b-f2f516327bda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://static.traveltek.net/cruisepics/local_shipimages_small/1644402555.png</value>
+      <webElementGuid>d53cc642-65ec-4cd2-a715-2155930f4e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Image-image is-loaded ms-Image-image--cover ms-Image-image--landscape is-fadeIn image-222</value>
+      <webElementGuid>0e48ecb4-a1e0-4f46-ad1b-1a189001e0f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ GridRow-module--grid-row--padded--fWrJ3&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-9--3CuBP GridColumn-module--grid-column--padded--TTiI2&quot;]/div[@class=&quot;ms-Stack css-160&quot;]/ul[@class=&quot;ResultsList-module--list--+ZCDo List-module--list-unstyled--OYpBm&quot;]/li[@class=&quot;ResultsListItem-module--container--3g6pa&quot;]/div[@class=&quot;ms-Stack css-185&quot;]/div[@class=&quot;ms-StackItem css-186&quot;]/div[@class=&quot;ms-Image root-221&quot;]/img[@class=&quot;ms-Image-image is-loaded ms-Image-image--cover ms-Image-image--landscape is-fadeIn image-222&quot;]</value>
+      <webElementGuid>90948837-699f-4b40-a46c-991fa3a93209</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/ul/li/div/div/div/img</value>
+      <webElementGuid>c7781193-a06f-4d8f-bbf7-7a0ef781d29d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Image of Queen Anne']</value>
+      <webElementGuid>9f480fe4-f4fe-4a63-919f-9377a944914a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>205fd20a-c0f8-44dd-a398-e83cb8a3e591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Image of Queen Anne' and @src = 'https://static.traveltek.net/cruisepics/local_shipimages_small/1644402555.png']</value>
+      <webElementGuid>233fd500-8ac7-4b85-aab2-57980a68a210</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

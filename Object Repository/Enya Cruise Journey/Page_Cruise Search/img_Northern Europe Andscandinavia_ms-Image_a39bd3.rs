@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Northern Europe Andscandinavia_ms-Image_a39bd3</name>
+   <tag></tag>
+   <elementGuidId>9bab8e96-3515-41c9-a5c4-11c0c522353e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.ms-Image-image.is-loaded.ms-Image-image--cover.ms-Image-image--portrait.is-fadeIn.image-222</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/ul/li/div/div[2]/div/div[2]/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>aaec2b4a-7bdf-42fe-8022-8d8a5f89ab98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Cruise line logo for Cunard</value>
+      <webElementGuid>7bcb707e-605e-4ac3-bc97-2cd812f96512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://static.traveltek.net/cruisepics/logos/cunard.gif</value>
+      <webElementGuid>595082e1-6638-4c8c-a3dc-4282e31559ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Image-image is-loaded ms-Image-image--cover ms-Image-image--portrait is-fadeIn image-222</value>
+      <webElementGuid>4ff51568-fb61-48d8-a247-c1340efa870e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ GridRow-module--grid-row--padded--fWrJ3&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-9--3CuBP GridColumn-module--grid-column--padded--TTiI2&quot;]/div[@class=&quot;ms-Stack css-160&quot;]/ul[@class=&quot;ResultsList-module--list--+ZCDo List-module--list-unstyled--OYpBm&quot;]/li[@class=&quot;ResultsListItem-module--container--3g6pa&quot;]/div[@class=&quot;ms-Stack css-185&quot;]/div[@class=&quot;ms-StackItem css-190&quot;]/div[@class=&quot;GridRow-module--grid-row--inJvQ&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-3--I-saR&quot;]/div[@class=&quot;GridRow-module--grid-row--inJvQ DetailsSection-module--cruiseLogo--nltxe GridRow-module--grid-row--padded--fWrJ3&quot;]/div[@class=&quot;ms-Image root-221&quot;]/img[@class=&quot;ms-Image-image is-loaded ms-Image-image--cover ms-Image-image--portrait is-fadeIn image-222&quot;]</value>
+      <webElementGuid>4ca053d5-2dfd-49e9-9303-15f9471c891e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/ul/li/div/div[2]/div/div[2]/div/div/img</value>
+      <webElementGuid>4eae0f5a-73ad-43ff-9f7a-032c3fc74816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Cruise line logo for Cunard']</value>
+      <webElementGuid>293a7119-d1ab-47da-8394-bd0027c594d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/img</value>
+      <webElementGuid>0930e100-f0cd-4fb7-8bdc-02d356d66a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Cruise line logo for Cunard' and @src = 'https://static.traveltek.net/cruisepics/logos/cunard.gif']</value>
+      <webElementGuid>cc6452e3-b5bc-4543-aa49-b2817afa3daa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
