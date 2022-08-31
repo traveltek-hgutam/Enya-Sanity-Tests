@@ -121,7 +121,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Enya Cruise Journ
 
 WebUI.click(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/button_Confirm'))
 
-WebUI.verifyElementNotVisible(findTestObject(null))
+WebUI.takeScreenshot('')
 
 WebUI.closeBrowser()
 
