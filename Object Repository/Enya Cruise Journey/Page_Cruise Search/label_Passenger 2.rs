@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//label[@id='TextFieldLabel3015']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Rates'])[1]/preceding::label[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>e566198a-6e07-4e8d-900d-e840693791b6</webElementGuid>
+      <webElementGuid>bef140a5-86b1-42cb-b302-ac5a584fcab9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>for</name>
       <type>Main</type>
       <value>TextField3013</value>
-      <webElementGuid>72dc416f-3361-46ba-bb2c-dda070947140</webElementGuid>
+      <webElementGuid>dd259d69-5318-4ad2-a0fc-f15e1fec33f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>TextFieldLabel3015</value>
-      <webElementGuid>976ac122-067f-4cc0-a16b-bc99ea76a1cf</webElementGuid>
+      <webElementGuid>0034fb5f-590c-4e8c-96cf-020dfb361ffb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ms-Label root-247</value>
-      <webElementGuid>0414efbe-348b-4eb6-98c5-a72b615be1ed</webElementGuid>
+      <webElementGuid>45e1ca78-3bea-441e-ae25-ae295d1ebbc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Passenger 2</value>
-      <webElementGuid>791b226f-3b6d-4d2a-85e5-40fefa7be83b</webElementGuid>
+      <webElementGuid>3a12bee3-a9be-4815-8b5d-a1af0d48dbc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;TextFieldLabel3015&quot;)</value>
-      <webElementGuid>b6598e28-7ee4-47a9-8816-19c28844b221</webElementGuid>
+      <webElementGuid>82be4712-6bb0-4a49-bd91-c633f3a18734</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//label[@id='TextFieldLabel3015']</value>
-      <webElementGuid>505cba9d-e41c-4983-bb98-1a3fb38e2d1e</webElementGuid>
+      <webElementGuid>064208b4-0fd9-4e25-a457-cc9a6f448dde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div[2]/div[2]/div[3]/div/label</value>
-      <webElementGuid>05d04431-5d4b-426a-8a03-84c558762730</webElementGuid>
+      <webElementGuid>519555cc-ea4d-4b34-a2d6-1d166a45fb87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger 1'])[1]/following::label[1]</value>
-      <webElementGuid>cdf291cc-4d77-4e63-8021-40125a7c9272</webElementGuid>
+      <webElementGuid>75bffa24-e0f6-4e61-bd66-bb039966bebd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Input age of passenger on return date.'])[1]/following::label[2]</value>
-      <webElementGuid>c62c3364-eec4-43a6-8123-b07fb14d29d7</webElementGuid>
+      <webElementGuid>f3d5d787-dbc6-411f-aad1-df97fcfcef24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rates'])[1]/preceding::label[1]</value>
-      <webElementGuid>982c72e2-d2de-4f47-a398-05b6971dcbd7</webElementGuid>
+      <webElementGuid>b431f66f-256b-4a8f-a796-4b29dc60f63e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Military Rates'])[1]/preceding::label[1]</value>
-      <webElementGuid>7897cfd8-9471-4c37-9416-ebc2573740e8</webElementGuid>
+      <webElementGuid>697ab438-b5b1-453a-b105-9473e1f068c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Passenger 2']/parent::*</value>
-      <webElementGuid>bb7ed415-7bdb-4202-927b-341e0d125ee0</webElementGuid>
+      <webElementGuid>b1ae3f89-c8b8-4c04-b888-aea2e36ffc47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[3]/div/label</value>
-      <webElementGuid>34f1bd0b-336b-43a1-937b-0db149bfb387</webElementGuid>
+      <webElementGuid>af75d10a-7d11-4a2c-8876-5a9a291beb90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[@id = 'TextFieldLabel3015' and (text() = 'Passenger 2' or . = 'Passenger 2')]</value>
-      <webElementGuid>bf42b9f2-13a6-4f4f-889b-0feb01ce11bf</webElementGuid>
+      <webElementGuid>035e3778-ae95-4757-94fb-1df9dc14d6b5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

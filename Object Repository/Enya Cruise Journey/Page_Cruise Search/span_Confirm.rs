@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div[5]/button[2]/span/span</value>
+         <value>//button[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>0864af38-06bf-4a49-85bc-03f1536c31cc</webElementGuid>
+      <webElementGuid>5398750d-fdba-4139-9811-29770f8e6ce5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ms-Button-textContainer textContainer-150</value>
-      <webElementGuid>77181ad0-a369-4b6b-9811-598d46eb7c93</webElementGuid>
+      <webElementGuid>ef07f392-231d-416a-afef-297c3bc286eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Confirm</value>
-      <webElementGuid>29ef3119-57cf-45f1-92f6-942c9c14c24e</webElementGuid>
+      <webElementGuid>244bf11e-ec8b-49fc-a8bf-97b8d01a39f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ModalFocusTrapZone835&quot;)/div[@class=&quot;ms-Modal-scrollableContent scrollableContent-204&quot;]/form[1]/div[@class=&quot;ms-Stack css-239&quot;]/div[@class=&quot;ms-Stack css-248&quot;]/button[@class=&quot;ms-Button ms-Button--primary root-148&quot;]/span[@class=&quot;ms-Button-flexContainer flexContainer-149&quot;]/span[@class=&quot;ms-Button-textContainer textContainer-150&quot;]</value>
-      <webElementGuid>23f56e95-df2a-468d-8352-307b3861cb36</webElementGuid>
+      <webElementGuid>e7d739d4-59af-44bd-a065-82fdf9bee1bc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div[5]/button[2]/span/span</value>
-      <webElementGuid>5fbb088a-3ef1-4d09-b881-ee5308dc873d</webElementGuid>
+      <webElementGuid>751dc3c2-6fb1-42e4-8bcb-5d54d285d4d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[2]</value>
-      <webElementGuid>9075abe9-1a4d-47c7-801e-4a190ddc976e</webElementGuid>
+      <webElementGuid>d80eafb5-4a99-47b8-b6f5-e770d5ec6666</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessible Cabins'])[1]/following::span[5]</value>
-      <webElementGuid>706d2b9e-bd7c-41c1-b761-365f1b229835</webElementGuid>
+      <webElementGuid>fe2ae417-2f5c-40ea-9240-c98295aed03a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]/span/span</value>
-      <webElementGuid>88f48d4b-f837-4683-922b-2ec150e896bb</webElementGuid>
+      <webElementGuid>79120a84-3a61-4008-9488-23d429a22f01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Confirm' or . = 'Confirm')]</value>
-      <webElementGuid>92866f26-99dd-49e0-9d8f-eabfd8fc1a80</webElementGuid>
+      <webElementGuid>e573757c-4bac-4033-abd9-145a74e92912</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

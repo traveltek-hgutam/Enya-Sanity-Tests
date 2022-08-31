@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Traveltek Cruise Search</name>
+   <tag></tag>
+   <elementGuidId>c294ecea-e098-4f6d-9515-a3d3b6a4ff19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.Heading-module--title--V5kOu.Heading-module--title-1--XBLzA.Heading-module--weight-normal--lFvwH</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>4b39eb1c-7c94-4725-b4b3-d5843300ac89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Heading-module--title--V5kOu Heading-module--title-1--XBLzA Heading-module--weight-normal--lFvwH</value>
+      <webElementGuid>67a4d4be-80bd-4a77-824a-38221619376e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Traveltek Cruise Search</value>
+      <webElementGuid>6db5a5ae-f9a2-4b03-bbd4-f4400fbaa5af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/div[@class=&quot;GenericLayout-module--header--jiLjT&quot;]/h1[@class=&quot;Heading-module--title--V5kOu Heading-module--title-1--XBLzA Heading-module--weight-normal--lFvwH&quot;]</value>
+      <webElementGuid>9dd94ae6-7b12-4d89-b042-baf49280fc7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/div/h1</value>
+      <webElementGuid>e4590e18-2d78-45e1-abfd-d78e2c7ee5ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::h1[1]</value>
+      <webElementGuid>1604901e-23d2-4c62-b49f-7fb9bb682d08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cruise Line'])[1]/preceding::h1[1]</value>
+      <webElementGuid>871ca8dd-51e5-487a-8cea-b6a3ed540832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Traveltek Cruise Search']/parent::*</value>
+      <webElementGuid>27964879-849e-40ea-83cc-3e4864e43d39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>fdb8fa5b-3199-4018-93ee-d5cd36648491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Traveltek Cruise Search' or . = 'Traveltek Cruise Search')]</value>
+      <webElementGuid>2d4eb3b9-9cdd-467c-b0ce-baddbb959c96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div[3]/h2</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger 2'])[1]/following::h2[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>be6f14ae-a57d-4abd-9ac3-fddfbd0c523f</webElementGuid>
+      <webElementGuid>6dd48418-c489-4912-ac6c-3e6ad548e358</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>results-module--modal-headings--+5iOZ</value>
-      <webElementGuid>3aef898e-e619-48e1-9776-36e054542116</webElementGuid>
+      <webElementGuid>7976ff9b-4c9a-4ce6-aecf-c3b40218558d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Rates</value>
-      <webElementGuid>6fc3e5d6-7dc3-41be-a059-030012140a1c</webElementGuid>
+      <webElementGuid>4e959ad5-9f43-4bc3-b547-fa92fb7a2239</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ModalFocusTrapZone835&quot;)/div[@class=&quot;ms-Modal-scrollableContent scrollableContent-204&quot;]/form[1]/div[@class=&quot;ms-Stack css-239&quot;]/div[@class=&quot;ms-Stack css-162&quot;]/h2[@class=&quot;results-module--modal-headings--+5iOZ&quot;]</value>
-      <webElementGuid>2f0b6701-d49f-4632-a433-3cdf5d29a521</webElementGuid>
+      <webElementGuid>81c8a698-8f71-4cc7-a72c-8cb8a1377eff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div[3]/h2</value>
-      <webElementGuid>690e5ac6-2c12-47f7-8579-71b4f3e1f020</webElementGuid>
+      <webElementGuid>2fe3d3d7-b11a-47da-ab10-bb4c5b229be5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger 2'])[1]/following::h2[1]</value>
-      <webElementGuid>e68ce190-c83e-48fb-9783-2012a9f6b42e</webElementGuid>
+      <webElementGuid>64866831-88f0-499c-b84a-6d3463e40811</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger 1'])[1]/following::h2[1]</value>
-      <webElementGuid>755b82f4-7cf2-4b47-8573-65478489d1e9</webElementGuid>
+      <webElementGuid>b4d240ca-b1b9-4929-abca-d13d2bf46bca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Military Rates'])[1]/preceding::h2[1]</value>
-      <webElementGuid>33f5adab-1c5e-4740-901d-3cbebbc98351</webElementGuid>
+      <webElementGuid>6338d7e8-c279-436a-8312-bb4132f71a90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Rates'])[1]/preceding::h2[1]</value>
-      <webElementGuid>53820b78-f457-461f-8065-5050c074183b</webElementGuid>
+      <webElementGuid>2434f4f7-73f6-4dda-91ae-fe392c2ed517</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Rates']/parent::*</value>
-      <webElementGuid>5f93edbc-d745-4b9b-bdfd-7e1d36de07bf</webElementGuid>
+      <webElementGuid>c1fbcb43-5245-4772-832a-7eb378a567e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/h2</value>
-      <webElementGuid>c8c04132-4d2b-47fa-9975-312178e7e218</webElementGuid>
+      <webElementGuid>9fe5a424-cf04-4b1e-83cf-e1b6c433a95c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Rates' or . = 'Rates')]</value>
-      <webElementGuid>c7a2e5f0-aba4-462e-9632-890ed7f86c39</webElementGuid>
+      <webElementGuid>e07f5c10-b8ad-450a-81b5-4a970bcbf12f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

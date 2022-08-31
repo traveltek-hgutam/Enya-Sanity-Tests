@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//label[@id='TextFieldLabel3010']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger 2'])[1]/preceding::label[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>cf1ad173-c0df-4166-93f6-22b35be78ed5</webElementGuid>
+      <webElementGuid>776dbff0-597e-4a82-b2ea-13d116b5bbab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>for</name>
       <type>Main</type>
       <value>TextField3008</value>
-      <webElementGuid>87926ed2-c3b6-4125-bc51-a4ab07d36604</webElementGuid>
+      <webElementGuid>20afbe52-36f7-46fa-a10a-3d25ee916c9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>TextFieldLabel3010</value>
-      <webElementGuid>b4793e94-cd58-44ac-8bdf-60ed815c2373</webElementGuid>
+      <webElementGuid>7e949162-d6e2-4db5-88fa-60d803d081ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ms-Label root-247</value>
-      <webElementGuid>22ac0d87-b897-46f2-8b5b-e6a542b253fb</webElementGuid>
+      <webElementGuid>09f99a0d-d570-473d-a834-7fa754d3534f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Passenger 1</value>
-      <webElementGuid>3083a323-5c37-4d81-ba6e-861fb0f26c3e</webElementGuid>
+      <webElementGuid>b21a6a05-b8bd-4828-85cf-83f40d579876</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;TextFieldLabel3010&quot;)</value>
-      <webElementGuid>5b3ad1ec-efaa-4d1a-b682-a38a086765c6</webElementGuid>
+      <webElementGuid>596c9957-0583-409b-8bc9-ff9f98831612</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//label[@id='TextFieldLabel3010']</value>
-      <webElementGuid>0dcc3a17-ad05-43b3-963c-3c2e14d4cbe8</webElementGuid>
+      <webElementGuid>105dc308-ba54-4420-b66f-bc4b6ee8335a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div[2]/div[2]/div[2]/div/label</value>
-      <webElementGuid>d4698bbd-18ca-4a05-94d7-1127dae66b80</webElementGuid>
+      <webElementGuid>e00991f2-885e-4604-93f5-1fbd21fe9725</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Input age of passenger on return date.'])[1]/following::label[1]</value>
-      <webElementGuid>bdd03217-5d80-46ba-82d6-e4109e5a73a4</webElementGuid>
+      <webElementGuid>a9dd3911-c562-46e8-b55e-5924b1dfe547</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger Ages'])[1]/following::label[1]</value>
-      <webElementGuid>b9bfaa9c-c8b6-4bfc-90ea-75b6b906f1e5</webElementGuid>
+      <webElementGuid>c1e00c9c-a8c5-4dc2-a849-031ed6056607</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger 2'])[1]/preceding::label[1]</value>
-      <webElementGuid>ebe5b612-4ffd-488f-83cc-2d849e4174e6</webElementGuid>
+      <webElementGuid>13c9dfde-d2f9-452b-9d01-3e5e5cd85559</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rates'])[1]/preceding::label[2]</value>
-      <webElementGuid>5ce0f562-7971-429f-808b-a69adf94e355</webElementGuid>
+      <webElementGuid>b801c1f1-6d2d-493d-a33f-c587fc18b535</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Passenger 1']/parent::*</value>
-      <webElementGuid>5276a941-fe75-4abb-84d3-4010b63c5e0f</webElementGuid>
+      <webElementGuid>16326d64-708f-43dd-ab3e-72860000cff7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/label</value>
-      <webElementGuid>7b3fa96b-3083-4e19-a17c-630823db1b29</webElementGuid>
+      <webElementGuid>aab45bb9-8c02-4cfd-8247-94b46fdadc5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[@id = 'TextFieldLabel3010' and (text() = 'Passenger 1' or . = 'Passenger 1')]</value>
-      <webElementGuid>9cd42562-67e3-4193-9b50-9ae0241f82de</webElementGuid>
+      <webElementGuid>2b4d23f1-1a5f-4de0-9e0f-cfdf55bd8fbf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

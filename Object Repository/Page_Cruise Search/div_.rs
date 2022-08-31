@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>cd97f6ad-0687-4ea0-a84b-75a7595e12cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cruise-line-filter-content']/div/div/div[2]/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7956358e-135e-4756-84d3-09ac37123806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Checkbox-checkbox checkbox-164</value>
+      <webElementGuid>670e2eb4-f4da-46f5-9869-5bf2e5dabbad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ktp-target</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4be68f3a-80df-4c16-a63d-ef1ff7fad506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>23b8e592-8470-4e44-8b52-ed3dc7e11acf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cruise-line-filter-content&quot;)/div[@class=&quot;AccordionItem-module--item-spacing--Up8JF&quot;]/div[@class=&quot;ms-Stack css-160&quot;]/div[@class=&quot;ms-Checkbox is-enabled root-161&quot;]/label[@class=&quot;ms-Checkbox-label label-163&quot;]/div[@class=&quot;ms-Checkbox-checkbox checkbox-164&quot;]</value>
+      <webElementGuid>904826d9-104b-423e-83d7-8dbd347ce372</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cruise-line-filter-content']/div/div/div[2]/label/div</value>
+      <webElementGuid>fbea4b34-d818-4a9f-a6ea-f402eb3b61cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cunard (110)'])[1]/following::div[2]</value>
+      <webElementGuid>fdf5dff2-b6eb-44c6-9a54-58239d52344e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cruise Line'])[1]/following::div[7]</value>
+      <webElementGuid>e608d7c6-b928-4d67-988a-ac83a1742033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Princess (235)'])[1]/preceding::div[1]</value>
+      <webElementGuid>ba7955dc-5056-4d50-9722-fe466adc96af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seabourn (5)'])[1]/preceding::div[2]</value>
+      <webElementGuid>27664738-21fa-4d31-ba49-559a36c9aa62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/div</value>
+      <webElementGuid>4735beb9-3134-4b80-b4ce-a5b5aabfcaa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '' or . = '')]</value>
+      <webElementGuid>8ba9f2ce-70c7-4ee5-b123-58df510cbfd4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

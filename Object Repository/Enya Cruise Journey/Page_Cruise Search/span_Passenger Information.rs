@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div/h1/span</value>
+         <value>//span[text()='Passenger Information']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>bbd347be-b3a1-4114-aa8b-1f85ace1a184</webElementGuid>
+      <webElementGuid>e3ece07d-562f-4899-865f-2a8bdf78206a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Text-module--size-XXL--7OA5+ Text-module--weight-normal--2NTO8 Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn</value>
-      <webElementGuid>0644482d-66eb-4fbe-881d-cf0ad7051a8d</webElementGuid>
+      <webElementGuid>765a1d4d-9506-4d68-b6a5-9789379dec3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Passenger Information</value>
-      <webElementGuid>ee45d586-3991-4d3b-8977-eac7ff5ae7d8</webElementGuid>
+      <webElementGuid>a717e56e-0a94-4b50-82fd-af7a90a703a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ModalFocusTrapZone835&quot;)/div[@class=&quot;ms-Modal-scrollableContent scrollableContent-204&quot;]/form[1]/div[@class=&quot;ms-Stack css-239&quot;]/div[@class=&quot;ms-Stack css-240&quot;]/h1[@class=&quot;Heading-module--title--V5kOu Heading-module--title-1--XBLzA Heading-module--weight-normal--lFvwH&quot;]/span[@class=&quot;Text-module--size-XXL--7OA5+ Text-module--weight-normal--2NTO8 Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn&quot;]</value>
-      <webElementGuid>c95e60da-824e-49db-8efc-eb49d6608e30</webElementGuid>
+      <webElementGuid>2e0516c9-8cf1-44db-a715-2b595cdbeb9e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div/h1/span</value>
-      <webElementGuid>dfb883ca-7540-407a-b535-d1e3d7035fbd</webElementGuid>
+      <webElementGuid>31728b88-bd4c-4852-aef3-2fe9e171e66e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Navigated to Traveltek Cruise Search'])[1]/following::span[1]</value>
-      <webElementGuid>29edcc91-5571-4047-a8b9-312d664b2a1a</webElementGuid>
+      <webElementGuid>c4fcf1a2-a1c8-44ee-ba86-54cbb1529a58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[201]/following::span[2]</value>
-      <webElementGuid>39ab4ebd-ee70-4268-83e8-64f0ea33b299</webElementGuid>
+      <webElementGuid>1e29bcff-6043-4081-b3d7-954690b1c1a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please fill out the following information for more accurate pricing'])[1]/preceding::span[1]</value>
-      <webElementGuid>a68a5c99-8ec8-4c2a-a788-ddfe5d4a85c4</webElementGuid>
+      <webElementGuid>7952ed60-f3cd-410a-8e86-a412515aa5da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No. of Passengers'])[1]/preceding::span[2]</value>
-      <webElementGuid>88c732ec-7168-43bd-aca7-b8a747067bbd</webElementGuid>
+      <webElementGuid>1d8ab6ce-2f31-4317-bbb6-e92a5db1a8f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Passenger Information']/parent::*</value>
-      <webElementGuid>2cc5828d-3259-4c48-9417-f16bdc28fd11</webElementGuid>
+      <webElementGuid>c55c0e7c-d9ad-4fb9-9621-b9e64f28978a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1/span</value>
-      <webElementGuid>645d96ae-5fcb-4567-9dc6-306191169101</webElementGuid>
+      <webElementGuid>ba0fef66-6faf-4ec8-b0ca-38cdbd155321</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Passenger Information' or . = 'Passenger Information')]</value>
-      <webElementGuid>e2102f1b-fc31-4751-ac45-507ecc908e03</webElementGuid>
+      <webElementGuid>bfddbfbd-4a4c-4f95-bef2-2d52ab0266a2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div[2]/div[2]/div/h2</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='No. of Passengers'])[1]/following::h2[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>408225a7-f3e4-4a7c-b131-8fafaae95f9f</webElementGuid>
+      <webElementGuid>e2def67b-c31e-44f2-ad4c-3e50c735573d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>results-module--modal-headings--+5iOZ</value>
-      <webElementGuid>673271e9-ffa3-4535-8f3a-52e32783434e</webElementGuid>
+      <webElementGuid>efa5ab87-75ea-4a05-adfa-36cd3c3417bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Passenger Ages</value>
-      <webElementGuid>574ce3df-e67d-499f-bd34-e79b704f6661</webElementGuid>
+      <webElementGuid>2a95f54a-2255-47ce-9c6a-33d583bc3654</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ModalFocusTrapZone835&quot;)/div[@class=&quot;ms-Modal-scrollableContent scrollableContent-204&quot;]/form[1]/div[@class=&quot;ms-Stack css-239&quot;]/div[@class=&quot;ms-Stack css-241&quot;]/div[@class=&quot;ms-Stack css-160&quot;]/div[@class=&quot;ms-Stack css-185&quot;]/h2[@class=&quot;results-module--modal-headings--+5iOZ&quot;]</value>
-      <webElementGuid>a32204c6-775b-48e3-b21f-a4f9e9f047e2</webElementGuid>
+      <webElementGuid>d059faa6-0183-4f1f-a146-810452d520b5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div[2]/div[2]/div/h2</value>
-      <webElementGuid>4498d97e-d707-4fd3-9333-4acc21633f3b</webElementGuid>
+      <webElementGuid>e1c43b39-60f8-4a13-be6b-6e16daa87a1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No. of Passengers'])[1]/following::h2[1]</value>
-      <webElementGuid>4f9f5175-57e7-4f57-8106-b5ea27783f9d</webElementGuid>
+      <webElementGuid>02407b55-16de-48b2-adcd-9bfe20746938</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please fill out the following information for more accurate pricing'])[1]/following::h2[1]</value>
-      <webElementGuid>4f952b52-9a3e-4783-8ed1-0a26fb3c8cd6</webElementGuid>
+      <webElementGuid>8366351e-0f04-4453-91ad-5e04f2d393b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Input age of passenger on return date.'])[1]/preceding::h2[1]</value>
-      <webElementGuid>0094b8e6-2846-436e-ab33-3f2ebec28139</webElementGuid>
+      <webElementGuid>84aec66b-f913-4e99-81f6-6067689e3122</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger 1'])[1]/preceding::h2[1]</value>
-      <webElementGuid>eae0cd11-eeca-4ec2-a729-57a031014c11</webElementGuid>
+      <webElementGuid>3a323574-ef05-42d7-ba2d-da84bae9ecd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Passenger Ages']/parent::*</value>
-      <webElementGuid>10d1dde9-0a92-494c-82e8-0d9cd702649b</webElementGuid>
+      <webElementGuid>58618f2c-e626-48b0-b448-5b913cfc221f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/h2</value>
-      <webElementGuid>67737fa6-c0a4-44b0-9bb0-c71b490d9baf</webElementGuid>
+      <webElementGuid>76ee83d3-70d1-4561-ad91-772c9af7574e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Passenger Ages' or . = 'Passenger Ages')]</value>
-      <webElementGuid>28e8a814-9d11-4236-93a0-56d272233ecb</webElementGuid>
+      <webElementGuid>c2cc5ec9-c48c-4824-a788-87422f7c506e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

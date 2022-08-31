@@ -38,6 +38,8 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Enya Cruise Journey
 
 WebUI.verifyElementText(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/span_Filter'), 'Filter')
 
+WebUI.acceptAlert()
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/span_Ship Name'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/div_searchsearch'), 
@@ -84,8 +86,7 @@ WebUI.click(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Se
 
 WebUI.click(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/button_Select'))
 
-WebUI.setText(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/input_Passenger 1_TextField3008'), 
-    '25')
+WebUI.setText(findTestObject('Enya Cruise Journey/Page_Cruise Search/input_Passenger 1_TextField3008'), '25')
 
 WebUI.setText(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/input_Passenger 2_TextField3013'), 
     '25')
@@ -116,7 +117,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Enya Cruise Journey/Pa
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/button_Cancel'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/span_Confirm'), 'Confirm')
+WebUI.verifyElementText(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/span_Confirm'), 'Cancel')
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/button_Confirm'))
 
