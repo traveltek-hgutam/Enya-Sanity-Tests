@@ -38,8 +38,6 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Enya Cruise Journey
 
 WebUI.verifyElementText(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/span_Filter'), 'Filter')
 
-WebUI.acceptAlert()
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/span_Ship Name'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/div_searchsearch'), 
@@ -122,4 +120,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Enya Cruise Journey/Pa
 WebUI.verifyElementClickable(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/button_Confirm'))
 
 WebUI.click(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/button_Confirm'))
+
+WebUI.closeBrowser()
 
