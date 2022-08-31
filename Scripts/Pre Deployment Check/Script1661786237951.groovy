@@ -121,7 +121,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Enya Cruise Journ
 
 WebUI.click(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/button_Confirm'))
 
-WebUI.takeScreenshot('')
+WebUI.takeScreenshot('Screenshot')
 
 WebUI.closeBrowser()
 
