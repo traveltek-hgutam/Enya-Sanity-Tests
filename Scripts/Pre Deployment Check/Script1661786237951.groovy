@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://enya.traveltekdev.com/')
+WebUI.navigateToUrl(GlobalVariable.urlCruise)
 
 WebUI.setText(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/input_Destination_destination-auto-suggest-input'), 
     'Northern Europe')
