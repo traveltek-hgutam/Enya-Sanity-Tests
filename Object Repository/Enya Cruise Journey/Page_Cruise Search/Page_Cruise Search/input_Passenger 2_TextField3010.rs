@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//label[text()='Passenger 2']/following::input</value>
+         <value>//div[@id='ModalFocusTrapZone817']/div[2]/form/div/div[2]/div[2]/div[3]/div/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

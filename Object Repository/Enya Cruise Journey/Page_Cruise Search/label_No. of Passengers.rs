@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*/text()[normalize-space(.)='No. of Passengers']/parent::*</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Please fill out the following information for more accurate pricing'])[1]/following::label[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

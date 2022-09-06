@@ -16,10 +16,53 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import java.time.format.DateTimeFormatter
+import com.github.kklisura.cdt.protocol.commands.Page
+import com.github.kklisura.cdt.protocol.commands.Runtime
+import com.github.kklisura.cdt.protocol.events.runtime.ConsoleAPICalled
+import com.github.kklisura.cdt.protocol.events.runtime.ConsoleAPICalledType
+import com.github.kklisura.cdt.protocol.types.runtime.RemoteObject
+import com.github.kklisura.cdt.services.ChromeDevToolsService
+import com.google.gson.Gson
+import com.google.gson.GsonBuilder
+import com.katalon.cdp.CdpUtils
+import com.kms.katalon.core.util.KeywordUtil
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.webui.driver.DriverFactory
+import org.openqa.selenium.WebDriver
+
+Gson gson = new GsonBuilder().setPrettyPrinting().create()
 
 WebUI.openBrowser('')
 
+ChromeDevToolsService devToolsService = CdpUtils.getService()
+
+/** Get indivisual CDP commands */
+Page page = devToolsService.getPage()
+Runtime runtime = devToolsService.getRuntime()
+page.enable()
+runtime.enable()
+
+/** Listen to the events that JavaScript console.log(msg) was called on the web page */
+runtime.onConsoleAPICalled({ ConsoleAPICalled event ->
+	List<RemoteObject> args = event.getArgs()
+	for (rm in args) {
+		KeywordUtil.logInfo(">>>${type.toString()} ${rm.getValue()}")
+	}
+})
+
+/** Wait for on load event */
+page.onLoadEventFired({ event ->
+	// Evaluate javascript
+	devToolsService.close()
+})
+
 WebUI.navigateToUrl(GlobalVariable.urlCruise)
+
+devToolsService.waitUntilClosed()
+
+WebUI.delay(3)
+
 
 WebUI.setText(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/input_Destination_destination-auto-suggest-input'), 
     'Northern Europe')

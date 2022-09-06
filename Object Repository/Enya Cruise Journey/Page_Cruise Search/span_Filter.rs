@@ -6,12 +6,12 @@
    <elementGuidId>5393c1c6-40d3-45af-ad95-083d135b15d0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.Text-module--size-M--k-kfk.Text-module--weight-bold--4V08K.Text-module--text-gray--n4cFu.Text-module--font-normal--fJlvn</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Traveltek Cruise Search'])[1]/following::span[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/h2/span</value>
+         <key>CSS</key>
+         <value>span.Text-module--size-M--k-kfk.Text-module--weight-bold--4V08K.Text-module--text-gray--n4cFu.Text-module--font-normal--fJlvn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

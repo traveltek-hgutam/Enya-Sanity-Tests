@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[text()='Passenger Information']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Navigated to Traveltek Cruise Search'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
