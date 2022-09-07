@@ -16,35 +16,48 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import java.time.format.DateTimeFormatter
-import com.github.kklisura.cdt.protocol.commands.Page
-import com.github.kklisura.cdt.protocol.commands.Runtime
-import com.github.kklisura.cdt.protocol.events.runtime.ConsoleAPICalled
-import com.github.kklisura.cdt.protocol.events.runtime.ConsoleAPICalledType
-import com.github.kklisura.cdt.protocol.types.runtime.RemoteObject
-import com.github.kklisura.cdt.services.ChromeDevToolsService
-import com.google.gson.Gson
-import com.google.gson.GsonBuilder
+import java.time.format.DateTimeFormatter as DateTimeFormatter
+import com.github.kklisura.cdt.protocol.commands.Page as Page
+import com.github.kklisura.cdt.protocol.commands.Runtime as Runtime
+import com.github.kklisura.cdt.protocol.events.runtime.ConsoleAPICalled as ConsoleAPICalled
+import com.github.kklisura.cdt.protocol.events.runtime.ConsoleAPICalledType as ConsoleAPICalledType
+import com.github.kklisura.cdt.protocol.types.runtime.RemoteObject as RemoteObject
+import com.github.kklisura.cdt.services.ChromeDevToolsService as ChromeDevToolsService
+import com.google.gson.Gson as Gson
+import com.google.gson.GsonBuilder as GsonBuilder
+import com.katalon.cdp.CdpUtils as CdpUtils
 import com.katalon.cdp.CdpUtils
-import com.kms.katalon.core.util.KeywordUtil
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import com.kms.katalon.core.webui.driver.DriverFactory
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+import org.openqa.selenium.WebDriver as WebDriver
 import org.openqa.selenium.WebDriver
+import org.openqa.selenium.logging.LogEntries
+import org.openqa.selenium.logging.LogEntry
+import com.kms.katalon.core.webui.driver.DriverFactory
+import com.kms.katalon.core.webui.driver.WebUIDriverType
 
 Gson gson = new GsonBuilder().setPrettyPrinting().create()
 
+WebUIDriverType executedBrowser = DriverFactory.getExecutedBrowser()
+
 WebUI.openBrowser('')
+
 
 ChromeDevToolsService devToolsService = CdpUtils.getService()
 
 /** Get indivisual CDP commands */
 Page page = devToolsService.getPage()
+
 Runtime runtime = devToolsService.getRuntime()
+
 page.enable()
+
 runtime.enable()
 
 /** Listen to the events that JavaScript console.log(msg) was called on the web page */
 runtime.onConsoleAPICalled({ ConsoleAPICalled event ->
+	// println gson.toJson(event)     // for debug
+	ConsoleAPICalledType type = event.getType()
 	List<RemoteObject> args = event.getArgs()
 	for (rm in args) {
 		KeywordUtil.logInfo(">>>${type.toString()} ${rm.getValue()}")
@@ -52,16 +65,25 @@ runtime.onConsoleAPICalled({ ConsoleAPICalled event ->
 })
 
 /** Wait for on load event */
-page.onLoadEventFired({ event ->
-	// Evaluate javascript
-	devToolsService.close()
-})
+page.onLoadEventFired({ def event ->
+        // Evaluate javascript
+        devToolsService.close()
+    })
 
 WebUI.navigateToUrl(GlobalVariable.urlCruise)
 
-devToolsService.waitUntilClosed()
+WebDriver driver = DriverFactory.getWebDriver()
+LogEntries logs = driver.manage().logs().get("browser")
+for (LogEntry entry : logs){
+	println(">>> ${entry}")
+}
 
-WebUI.delay(3)
+
+
+WebUI.takeScreenshotAsCheckpoint('SearchPage')
+
+
+
 
 
 WebUI.setText(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/input_Destination_destination-auto-suggest-input'), 
@@ -73,9 +95,6 @@ WebUI.click(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Se
 
 WebUI.verifyElementText(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/h1_Traveltek Cruise Search'), 
     'Traveltek Cruise Search')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/h1_Traveltek Cruise Search'), 
-    0)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/h1_Traveltek Cruise Search'))
 
@@ -164,7 +183,11 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Enya Cruise Journ
 
 WebUI.click(findTestObject('Object Repository/Enya Cruise Journey/Page_Cruise Search/button_Confirm'))
 
-WebUI.takeScreenshot('Screenshot')
+WebUI.takeScreenshot()
+
+devToolsService.waitUntilClosed()
+
+WebUI.delay(3)
 
 WebUI.closeBrowser()
 
