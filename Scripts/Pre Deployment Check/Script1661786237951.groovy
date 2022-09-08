@@ -25,7 +25,7 @@ import com.github.kklisura.cdt.protocol.types.runtime.RemoteObject as RemoteObje
 import com.github.kklisura.cdt.services.ChromeDevToolsService as ChromeDevToolsService
 import com.google.gson.Gson as Gson
 import com.google.gson.GsonBuilder as GsonBuilder
-import com.katalon.cdp.CdpUtils as CdpUtils
+import com.katalon.cdp.CdpUtils
 import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import org.openqa.selenium.WebDriver as WebDriver
