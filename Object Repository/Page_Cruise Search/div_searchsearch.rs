@@ -7,7 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/div/div/div/div/div/ol/li/a/div</value>
+         <value>//*/text()[normalize-space(.)='search']/parent::*</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>31a4d6e6-f5a6-4fdb-91b3-77752de6957c</webElementGuid>
+      <webElementGuid>cd295c96-d004-41fb-9999-d9474dac7ff1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ms-TooltipHost root-180</value>
-      <webElementGuid>36b4cec5-2254-43d5-8bf7-93682d05b89d</webElementGuid>
+      <webElementGuid>0bb66179-4d48-4caa-a2c5-8a08d44a11bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +42,7 @@
       <name>role</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>6a558ccd-ec82-4a8e-a1f0-e34f7e5bb444</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>searchsearch</value>
-      <webElementGuid>d912168b-6c4d-4846-96e1-68d501edc3b0</webElementGuid>
+      <webElementGuid>0702061b-f227-48ab-8cd0-3f1a15b06acd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,54 +50,22 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ GridRow-module--grid-row--padded--fWrJ3&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-9--3CuBP GridColumn-module--grid-column--padded--TTiI2&quot;]/div[@class=&quot;ms-Stack css-160&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;ms-Breadcrumb root-170&quot;]/div[@class=&quot;ms-FocusZone css-178&quot;]/ol[@class=&quot;ms-Breadcrumb-list list-171&quot;]/li[@class=&quot;ms-Breadcrumb-listItem listItem-172&quot;]/a[@class=&quot;ms-Link ms-Breadcrumb-itemLink itemLink-179&quot;]/div[@class=&quot;ms-TooltipHost root-180&quot;]</value>
-      <webElementGuid>459fb320-2e58-4d28-912f-27c23bc3f084</webElementGuid>
+      <webElementGuid>23f540e2-0cd6-46cc-899b-ea6c1d03640a</webElementGuid>
    </webElementProperties>
-   <webElementXpaths>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/div/div/div/div/div/ol/li/a/div</value>
-      <webElementGuid>17a9e770-d167-4e58-8935-38220f9dc25e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
+   <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>text</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price range'])[1]/following::div[15]</value>
-      <webElementGuid>dad5cefa-9a0c-4833-b17a-074ba6739d51</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zuiderdam (13)'])[1]/following::div[17]</value>
-      <webElementGuid>6d14571a-c680-4d2c-80c4-8aee34eaaf7c</webElementGuid>
-   </webElementXpaths>
+      <value>searchsearch</value>
+      <webElementGuid>d944086e-3ac4-42fd-b9e0-1c0849d4693b</webElementGuid>
+   </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='search']/parent::*</value>
-      <webElementGuid>5c922d8f-57f6-4839-9aa6-593b7eafa468</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//a/div</value>
-      <webElementGuid>4d7bf116-e55b-4d24-b2e5-da5ca7867ec3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = 'searchsearch' or . = 'searchsearch')]</value>
-      <webElementGuid>651261b5-6db6-42ad-9271-8e44cd9c97b0</webElementGuid>
+      <webElementGuid>26d1a981-13eb-40c5-9cc6-5714abab2b2c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

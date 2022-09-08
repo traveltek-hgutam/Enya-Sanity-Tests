@@ -6,12 +6,12 @@
    <elementGuidId>1cbe922c-6901-4967-863b-08fd49679c27</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[4]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.ms-Button.ms-Button--primary.root-148</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,58 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d76cafb4-27d6-4777-ac4d-8179467db2c2</webElementGuid>
+      <webElementGuid>3e30ff53-193a-4d4d-b730-6dd862c70727</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f563ad75-0a60-41b1-96ec-f260b7ee406b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Button ms-Button--primary root-148</value>
+      <webElementGuid>15574fba-1ab7-42a8-b399-06434dec858a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-is-focusable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b1af12ca-3ff0-470d-acf4-b2cc65a8fb4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>4e1f5085-71d9-4d0e-8393-1ce0a57654f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ GridRow-module--grid-row--padded--fWrJ3&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-9--3CuBP GridColumn-module--grid-column--padded--TTiI2&quot;]/div[@class=&quot;ms-Stack css-160&quot;]/ul[@class=&quot;ResultsList-module--list--+ZCDo List-module--list-unstyled--OYpBm&quot;]/li[@class=&quot;ResultsListItem-module--container--3g6pa&quot;]/div[@class=&quot;ms-Stack css-185&quot;]/div[@class=&quot;ms-StackItem css-199&quot;]/div[@class=&quot;ms-Stack css-162&quot;]/div[@class=&quot;ms-StackItem css-200&quot;]/button[@class=&quot;ms-Button ms-Button--primary root-148&quot;]</value>
+      <webElementGuid>a1bbbd89-b647-4ea5-a76f-27f0b56ad0ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d76cafb4-27d6-4777-ac4d-8179467db2c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -49,7 +97,7 @@
       <webElementGuid>856e4ade-5d47-4afd-9dc8-5ff1a1ae14c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -70,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>04c63931-628b-4d46-b652-e2d907b5b01b</webElementGuid>
+      <webElementGuid>2da6327f-2cf6-40a8-b4e6-f8bc0ea79c2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/ul/li/div/div[3]/div/div[4]/button</value>
-      <webElementGuid>22c6260e-ae8b-4bd9-8c7c-437deb1b40d0</webElementGuid>
+      <webElementGuid>a472da69-c5a6-4b15-9f71-051db4e6d8dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +134,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax is NOT included in pricing displayed'])[1]/following::button[1]</value>
-      <webElementGuid>304edbd5-65e2-45dd-8c88-7e12c1957858</webElementGuid>
+      <webElementGuid>a246b326-d76c-4112-9097-b4f86a47c9e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[3]/following::button[1]</value>
+      <webElementGuid>78041b81-2de2-4c66-a68c-2a437a1cc0a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='British Isles With Orkney Islands'])[1]/preceding::button[1]</value>
+      <webElementGuid>5709e9ee-7bcd-41e6-bb51-72e171d51376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>812ff2fb-a45b-4ffd-a577-b6062c008fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>07e2828a-68b0-42d8-ab6a-d568f066ad23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,21 +183,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Voyage Of The Glaciers (Northbound)'])[2]/preceding::button[1]</value>
       <webElementGuid>21b6f65e-139a-4b1b-8292-3dc0c493cf66</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[4]/button</value>
-      <webElementGuid>b9ce0c3e-955a-4ca6-af0f-3ee759d9facc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Select' or . = 'Select')]</value>
-      <webElementGuid>cbde00c3-39a0-4b0e-aad2-f69bc50722f2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

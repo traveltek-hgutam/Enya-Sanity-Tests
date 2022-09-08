@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_cabincabin</name>
+   <tag></tag>
+   <elementGuidId>978a7d74-ccc8-43c5-9272-318fa94ebea1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/div/div/div/div/ol/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>93e88853-1ff6-48e0-94b5-559cffdaedac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/cabin/?cabinGradeCode=Inside with Shower&amp;rateCode=Festive Day Pplus&amp;cruiseId=N342&amp;totalGrossPrice=302600</value>
+      <webElementGuid>fb0b9157-76d4-467b-9c6e-0314241ed4b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Link ms-Breadcrumb-itemLink itemLink-109</value>
+      <webElementGuid>41ccaa0b-61bd-495a-8db8-11870fe061da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e839903e-85f8-4033-adbc-3699ef08ef4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>cabincabin</value>
+      <webElementGuid>e6703b04-fcbb-4e10-975b-4eafcdddb978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;ms-Stack css-241&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;ms-Breadcrumb root-100&quot;]/div[@class=&quot;ms-FocusZone css-108&quot;]/ol[@class=&quot;ms-Breadcrumb-list list-101&quot;]/li[@class=&quot;ms-Breadcrumb-listItem listItem-102&quot;]/a[@class=&quot;ms-Link ms-Breadcrumb-itemLink itemLink-109&quot;]</value>
+      <webElementGuid>ec65fed7-7490-4505-9318-ff6d18ba9e4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/div/div/div/div/ol/li[4]/a</value>
+      <webElementGuid>b0ed988d-e784-4936-a251-7e17fbb4cfe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sailing'])[1]/following::a[1]</value>
+      <webElementGuid>6cd79f44-cb54-494c-b742-370a7f02e22a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/cabin/?cabinGradeCode=Inside with Shower&amp;rateCode=Festive Day Pplus&amp;cruiseId=N342&amp;totalGrossPrice=302600')]</value>
+      <webElementGuid>dd49454b-b1d2-444e-b094-1d045190566c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>972a404e-6c40-475c-93eb-a083c0e97bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/cabin/?cabinGradeCode=Inside with Shower&amp;rateCode=Festive Day Pplus&amp;cruiseId=N342&amp;totalGrossPrice=302600' and (text() = 'cabincabin' or . = 'cabincabin')]</value>
+      <webElementGuid>f3633b45-0e49-48f1-96d9-bb3c3c65af97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

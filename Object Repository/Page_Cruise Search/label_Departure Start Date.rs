@@ -6,16 +6,64 @@
    <elementGuidId>bfb202c8-00db-4b3b-a2af-2038836bfa34</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//label[@id='TextFieldLabel9']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#TextFieldLabel9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='TextFieldLabel9']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>040003a4-9ff0-4154-87e5-fc75566f642d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>DatePicker5-label</value>
+      <webElementGuid>32e1b6db-fc34-408d-a3c9-338d94e45934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TextFieldLabel9</value>
+      <webElementGuid>52c52765-2dd8-4927-a21d-16f59af7e6c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Label root-114</value>
+      <webElementGuid>1d82ccea-8a13-4b13-a413-e4f419b713a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Departure Start Date</value>
+      <webElementGuid>c6f1a48f-5034-4c15-88f0-c2da5180fbe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TextFieldLabel9&quot;)</value>
+      <webElementGuid>e2296822-edc2-4e04-9d13-7fb82fbec194</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +81,7 @@
       <webElementGuid>6490324b-fc64-4db7-9f25-ce6eeff2a319</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -49,7 +97,7 @@
       <webElementGuid>5ef98c88-4e4b-4cab-b3bb-9864d4f86710</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -70,7 +118,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//label[@id='TextFieldLabel9']</value>
-      <webElementGuid>3fe9e8e0-f10b-49b5-8021-c5423beaba07</webElementGuid>
+      <webElementGuid>b5f49dfe-26ac-40e1-8027-426865e177bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +126,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='gatsby-focus-wrapper']/div/main/form/div/div/div[2]/div/div/div/div/label</value>
-      <webElementGuid>6303ac77-f414-4c39-97bf-2443787a0ddd</webElementGuid>
+      <webElementGuid>b8b58eb6-e169-427c-8296-615c9779e882</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Destination'])[1]/following::label[1]</value>
-      <webElementGuid>6e57ad0e-8d62-4c4a-923f-a605f133c9ea</webElementGuid>
+      <webElementGuid>1f11363a-0f61-44dc-86ea-aa4c831e8ec1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +142,47 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Traveltek Cruise Search'])[1]/following::label[2]</value>
-      <webElementGuid>996cc4c6-6ce2-4e19-a6c3-138304cecf54</webElementGuid>
+      <webElementGuid>10894b66-4659-473a-a6c7-78464e3c67a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tue Aug 30 2022'])[1]/preceding::label[1]</value>
+      <webElementGuid>8e924758-e9c8-450f-beb6-85d8eb80513b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departure End Date'])[1]/preceding::label[1]</value>
+      <webElementGuid>6b34fd28-bb28-48f3-94e8-38bafdbbc199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Departure Start Date']/parent::*</value>
+      <webElementGuid>30e768bc-bebc-4bcb-879e-79d4e33ab20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/label</value>
+      <webElementGuid>33767743-27b6-4066-a51f-a4b4124d300b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'TextFieldLabel9' and (text() = 'Departure Start Date' or . = 'Departure Start Date')]</value>
+      <webElementGuid>a8ae5250-baf7-455a-bb65-d768195c2b00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,37 +191,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thu Sep 01 2022'])[1]/preceding::label[1]</value>
       <webElementGuid>eee42bdf-521e-49f7-b801-60ae6794751f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departure End Date'])[1]/preceding::label[1]</value>
-      <webElementGuid>991a1507-3a37-4d70-939d-4879a63b6836</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Departure Start Date']/parent::*</value>
-      <webElementGuid>21e00f5a-bcc5-4102-9f2b-1df3670db046</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/div/div/div/label</value>
-      <webElementGuid>05d9db6a-8730-440c-b418-c1fb095bfbdd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//label[@id = 'TextFieldLabel9' and (text() = 'Departure Start Date' or . = 'Departure Start Date')]</value>
-      <webElementGuid>4804e319-5615-4955-b853-372f6da4f11a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

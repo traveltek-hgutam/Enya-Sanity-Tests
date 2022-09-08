@@ -7,7 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/h2/span</value>
+         <value>//*/text()[normalize-space(.)='Filter']/parent::*</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Filter' or . = 'Filter')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>be50eba2-11e8-485a-a7b6-f8f90876c1d4</webElementGuid>
+      <webElementGuid>c650f02c-77aa-42d8-a6ab-7f5d3a5cd96b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Text-module--size-M--k-kfk Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn</value>
-      <webElementGuid>423451a9-0071-42d0-9d9d-0f518b766236</webElementGuid>
+      <webElementGuid>3818f19d-af80-43b3-89ed-ea71e33c5b5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Filter</value>
-      <webElementGuid>97366385-997a-484c-bf9e-d4d24b9fa7ec</webElementGuid>
+      <webElementGuid>84c0da58-4fe8-4c33-919b-42ce5b0ddf55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ GridRow-module--grid-row--padded--fWrJ3&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-3--I-saR GridColumn-module--grid-column--padded--TTiI2&quot;]/h2[@class=&quot;Heading-module--title--V5kOu Heading-module--title-2--cdX8G Heading-module--weight-normal--lFvwH&quot;]/span[@class=&quot;Text-module--size-M--k-kfk Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn&quot;]</value>
-      <webElementGuid>d57454a3-831c-43b5-ae0d-638381b0360a</webElementGuid>
+      <webElementGuid>63c4b459-6cec-40bf-abc7-168116ebd534</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/h2/span</value>
-      <webElementGuid>981c473a-c170-4215-8cc0-0347e54a2a6f</webElementGuid>
+      <webElementGuid>398fa9b1-fa88-4bea-8202-209327128f02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Traveltek Cruise Search'])[1]/following::span[1]</value>
-      <webElementGuid>1d1197dc-e85e-460f-a8fb-89fda940658d</webElementGuid>
+      <webElementGuid>b8f22fd9-99dd-4295-873b-2a9b7d5a510a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,15 +74,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cruise Line'])[1]/preceding::span[1]</value>
-      <webElementGuid>ec5ce87e-a398-4c1b-ac22-373253ed5d59</webElementGuid>
+      <webElementGuid>6fee2484-b7e3-4b3f-87fc-6b916b4ec23e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cunard (354)'])[1]/preceding::span[2]</value>
-      <webElementGuid>8830086b-5efb-4a56-b390-0bcbcf22ffb0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cunard (353)'])[1]/preceding::span[2]</value>
+      <webElementGuid>4f31a787-639a-4318-b89c-34b5010c25ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Filter']/parent::*</value>
-      <webElementGuid>eac2366e-e443-4ee0-92b7-e45d14bb70e7</webElementGuid>
+      <webElementGuid>2dd3e0c1-fd45-4eb4-9841-e52ccce3c492</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span</value>
-      <webElementGuid>8acac524-6b82-4a3b-a1dc-d5b23fa9366c</webElementGuid>
+      <webElementGuid>4b012df5-9851-4256-8a5f-a6019c3ce71a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Filter' or . = 'Filter')]</value>
-      <webElementGuid>3219cd78-ac58-4133-a71e-49b8c71a602d</webElementGuid>
+      <webElementGuid>7ee11d81-fcea-438c-9f29-2f588f157a5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cunard (354)'])[1]/preceding::span[2]</value>
+      <webElementGuid>907d4688-e157-4fbb-b8d8-d08c490d45c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_View Passenger Info</name>
+   <tag></tag>
+   <elementGuidId>031b0c0a-520b-47e5-b272-8ac623f4f938</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='View Passenger Info']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id__4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>17db846b-a8c3-4992-b24a-de87154b57e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Button-label label-116</value>
+      <webElementGuid>64f0d107-170b-47b7-b9c8-5a454a39f585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id__4</value>
+      <webElementGuid>b039e7b2-0342-4cdc-948d-a0552e1c7bdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Passenger Info</value>
+      <webElementGuid>264799eb-abba-411a-93b6-411294146a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id__4&quot;)</value>
+      <webElementGuid>60dc347d-9355-469e-9808-0dabd390ca6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='id__4']</value>
+      <webElementGuid>6a998481-9c20-4aaa-a772-a13e01ab5e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/button/span/span/span</value>
+      <webElementGuid>40cb2706-5faf-4749-b38b-390b326d50a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regal Princess'])[1]/following::span[3]</value>
+      <webElementGuid>443506e2-dc81-419b-9203-d7d8eae715c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cruise Ship:'])[1]/following::span[4]</value>
+      <webElementGuid>3548f79b-de94-4605-91c5-b24a75e9604e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Passenger Info']/parent::*</value>
+      <webElementGuid>eb9cb0b2-09c4-4fe8-b740-0e2b8aa79615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span</value>
+      <webElementGuid>49f02116-4d30-469c-b1cd-a4f4ef47b232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'id__4' and (text() = 'View Passenger Info' or . = 'View Passenger Info')]</value>
+      <webElementGuid>90443fe9-ee31-4ce0-9c9e-4bd16d04a401</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

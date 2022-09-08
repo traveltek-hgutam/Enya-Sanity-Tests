@@ -6,12 +6,12 @@
    <elementGuidId>0947416a-5928-4627-8fc9-372da2e6dec4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='destination-auto-suggest-input']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#destination-auto-suggest-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='destination-auto-suggest-input']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4d7e70a4-f6f2-46bd-9f3a-bcb58a5af338</webElementGuid>
+      <webElementGuid>e8d1cff8-13cc-45a8-abbf-93c3bc0ae5bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>fdfb7790-354a-477f-a210-9d894383df4d</webElementGuid>
+      <webElementGuid>85d31e19-2b1d-4ef4-9a6c-522e7c6d1e77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,10 +38,98 @@
       <name>id</name>
       <type>Main</type>
       <value>destination-auto-suggest-input</value>
-      <webElementGuid>d17efd7d-b2eb-4f27-97cc-89e6bb8bd587</webElementGuid>
+      <webElementGuid>ddf5618c-ed5b-45c8-b352-db2e11eb3f7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Any...</value>
+      <webElementGuid>c135963c-11b1-4000-9793-3e9e4a0f86aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>471b9a31-19d0-42f1-be53-43078915c961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-autocomplete</name>
+      <type>Main</type>
+      <value>list</value>
+      <webElementGuid>ceaa9576-3284-4fc3-bc5e-d70c7a4fa47e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>react-autowhatever-1</value>
+      <webElementGuid>ecc40e73-98de-4c81-9f28-9d5cb7ef85d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-TextField-field field-158</value>
+      <webElementGuid>bb1d4f56-4f6f-4e32-9489-d22491442c65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>TextFieldLabel2</value>
+      <webElementGuid>06d8e71a-2e34-4d05-b604-e91e7b3df6a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b27ac9c8-559c-4cc3-90c1-e8a537a9fb58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;destination-auto-suggest-input&quot;)</value>
+      <webElementGuid>792ec039-c0e5-4fac-a93d-b7656a7e34be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4d7e70a4-f6f2-46bd-9f3a-bcb58a5af338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>fdfb7790-354a-477f-a210-9d894383df4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>destination-auto-suggest-input</value>
+      <webElementGuid>d17efd7d-b2eb-4f27-97cc-89e6bb8bd587</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -110,7 +198,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='destination-auto-suggest-input']</value>
-      <webElementGuid>16ee81b4-d976-4ee5-a118-29fda746089d</webElementGuid>
+      <webElementGuid>70d76f98-d0dd-43a4-8bd1-683cb1a2c757</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +206,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='gatsby-focus-wrapper']/div/main/form/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>8166463f-5f37-4202-8996-29bb3f4aafc1</webElementGuid>
+      <webElementGuid>0cc29308-b9d8-4d5d-8fe6-28a7b21b1baa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +214,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>0b689519-3b0c-460c-9fe6-58de1f8a259f</webElementGuid>
+      <webElementGuid>dad2028d-e0cb-48b1-9924-9390447686f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +222,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'destination-auto-suggest-input' and @placeholder = 'Any...']</value>
-      <webElementGuid>93aed0f9-26ec-4774-9c37-11c9e8d0cc48</webElementGuid>
+      <webElementGuid>963dcde4-9c32-429f-9e49-aa4e69a4831f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

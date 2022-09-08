@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Reserve in Medallion App</name>
+   <tag></tag>
+   <elementGuidId>b03424d4-df75-49f2-9fe1-4d0fcd788d17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ms-Button-flexContainer.flexContainer-230</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='dining-input-list0']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d590ed3a-ad60-40a5-80b1-3949f018b6b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Button-flexContainer flexContainer-230</value>
+      <webElementGuid>48feae1f-e209-4048-ae50-8a084336bdaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automationid</name>
+      <type>Main</type>
+      <value>splitbuttonprimary</value>
+      <webElementGuid>8fb63552-ac9d-4bbc-b02c-f994a145bf10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reserve in Medallion App</value>
+      <webElementGuid>4ad7709d-b362-4388-be6b-50ce4e6112c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dining-input-list0&quot;)/span[@class=&quot;ms-Button-flexContainer flexContainer-230&quot;]</value>
+      <webElementGuid>79718787-bcbf-4cb1-b374-804b211cac24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='dining-input-list0']/span</value>
+      <webElementGuid>f88a71bd-07aa-496d-a976-220184fdb4cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deck Dolphin - Dolphin'])[1]/following::span[1]</value>
+      <webElementGuid>fb54e03e-cd46-4d45-ae67-1a14f92e5880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::span[1]</value>
+      <webElementGuid>3436ab08-17e0-4287-b8de-ad4a449c8eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/button/span</value>
+      <webElementGuid>180be529-ac65-4035-8bdf-aeb55231d541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Reserve in Medallion App' or . = 'Reserve in Medallion App')]</value>
+      <webElementGuid>b8083ea1-40d4-45fe-89aa-6a919bbc2621</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

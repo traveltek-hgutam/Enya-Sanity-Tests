@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_OrderBasket</name>
+   <tag></tag>
+   <elementGuidId>f2ea322f-2a5d-4d0f-937b-694bfcc3400c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/h2/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>03f22ba4-8a9c-470f-ae27-ebfbf8a01839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text-module--size-XXL--7OA5+ Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn</value>
+      <webElementGuid>05581734-16b1-4942-9552-88784cbb80c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order/Basket</value>
+      <webElementGuid>67929006-f418-4902-9c3b-9cdff66893c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;ms-Stack css-241&quot;]/div[@class=&quot;Spacing-module--spacing-single--D6GUP Spacing-module--spacing--omXOY&quot;]/h2[@class=&quot;Heading-module--title--V5kOu Heading-module--title-2--cdX8G Heading-module--weight-normal--lFvwH&quot;]/span[@class=&quot;Text-module--size-XXL--7OA5+ Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn&quot;]</value>
+      <webElementGuid>5a2a5466-25ff-4596-a344-5b54ee197718</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/h2/span</value>
+      <webElementGuid>fed93f5c-b53d-459c-8999-13bba81373cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='order'])[1]/following::span[1]</value>
+      <webElementGuid>5bd1a697-c2c3-44d0-9ab5-eab963498520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order/Basket Ref: why_no_id_returned'])[1]/preceding::span[1]</value>
+      <webElementGuid>5e447c5e-c149-47f0-98c7-d441f0750629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caribbean Cruise'])[1]/preceding::span[2]</value>
+      <webElementGuid>ee5454f4-e6eb-4188-924b-8bedea6081f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Order/Basket']/parent::*</value>
+      <webElementGuid>3f2ef4b9-a4b0-4c34-8e4d-4872342b5b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/span</value>
+      <webElementGuid>39bf04d9-7a73-415e-a8c4-ddd4f6416313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Order/Basket' or . = 'Order/Basket')]</value>
+      <webElementGuid>66a32df7-4262-40b7-80e9-3dfefda3bb9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

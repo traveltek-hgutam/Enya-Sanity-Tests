@@ -6,16 +6,64 @@
    <elementGuidId>7cceadc7-a7be-4e07-9ae3-8d3a14b255b2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//label[@id='TextFieldLabel1119']</value>
+         <key>CSS</key>
+         <value>#TextFieldLabel3010</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#TextFieldLabel1119</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger 2'])[1]/preceding::label[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a187a600-ecaf-4d5c-9ce4-ef80ef2468fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>TextField3008</value>
+      <webElementGuid>8fd5c2c2-5cd9-4b3d-abc2-9cfe0bb004f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TextFieldLabel3010</value>
+      <webElementGuid>fcd135d4-036b-48a5-a2e5-efed05ce062c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Label root-247</value>
+      <webElementGuid>c8ad06e7-ea44-4940-9309-830499de0a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Passenger 1</value>
+      <webElementGuid>bbb23877-c905-429a-8c08-155ae7632e5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TextFieldLabel3010&quot;)</value>
+      <webElementGuid>e3b56050-0027-4e6f-b6dc-45d6cc5ac114</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +81,7 @@
       <webElementGuid>9b13f7c1-976e-4bff-b097-8a9f7b3d22d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -49,7 +97,7 @@
       <webElementGuid>bfee6922-3c1c-43a8-92db-1a54ec99315c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -69,6 +117,78 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
+      <value>//label[@id='TextFieldLabel3010']</value>
+      <webElementGuid>345a0b41-fd04-4177-81f3-cace052129b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div[2]/div[2]/div[2]/div/label</value>
+      <webElementGuid>de95c71a-122d-4b37-ad18-403e51197a6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input age of passenger on return date.'])[1]/following::label[1]</value>
+      <webElementGuid>17645ea6-b1ce-4f7c-b828-512639e07a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger Ages'])[1]/following::label[1]</value>
+      <webElementGuid>893c0c97-847a-47b0-b177-4e39364dc88f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger 2'])[1]/preceding::label[1]</value>
+      <webElementGuid>b5ac1529-5cbe-4b23-b99e-ac99e38e7b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rates'])[1]/preceding::label[2]</value>
+      <webElementGuid>ea87c34c-ac06-4011-b328-c170dccda46a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Passenger 1']/parent::*</value>
+      <webElementGuid>5dca2f73-63a0-47d5-beaf-4c4c35ac49fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/label</value>
+      <webElementGuid>480ba1aa-7c14-4b25-a15d-6d82a1f9f9b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'TextFieldLabel3010' and (text() = 'Passenger 1' or . = 'Passenger 1')]</value>
+      <webElementGuid>6001c1e2-b7f9-4df6-80c7-68b1d9725741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
       <value>//label[@id='TextFieldLabel1119']</value>
       <webElementGuid>6461f6f0-e256-4e70-be33-d8492c76e396</webElementGuid>
    </webElementXpaths>
@@ -79,54 +199,6 @@
       <type>Main</type>
       <value>//div[@id='ModalFocusTrapZone237']/div[2]/form/div/div[2]/div[2]/div[2]/div/label</value>
       <webElementGuid>fb2d32de-671b-47cb-b296-5ada33641a85</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input age of passenger on return date.'])[1]/following::label[1]</value>
-      <webElementGuid>5e2031c9-34c5-43a2-b7e8-398d19065722</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger Ages'])[1]/following::label[1]</value>
-      <webElementGuid>981b006c-2156-4022-99cc-1a09a2fe7376</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger 2'])[1]/preceding::label[1]</value>
-      <webElementGuid>77fbc6b4-b9b7-42c5-aec0-cd64070f2493</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rates'])[1]/preceding::label[2]</value>
-      <webElementGuid>57f36438-9c20-430b-8fbc-dc045f840dd6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Passenger 1']/parent::*</value>
-      <webElementGuid>affb3afc-c7f9-481f-b2d0-c7efad08f951</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div[2]/div/label</value>
-      <webElementGuid>868de604-bb4f-43a9-9cdf-6e6f4fedd19c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

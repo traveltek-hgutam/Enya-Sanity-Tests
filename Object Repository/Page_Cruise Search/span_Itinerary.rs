@@ -7,7 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/ul/li/div/div[2]/div[4]/span</value>
+         <value>//*/text()[normalize-space(.)='Itinerary:']/parent::*</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Itinerary:' or . = 'Itinerary:')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4c949d33-dff3-4f45-b9ac-933498a0af78</webElementGuid>
+      <webElementGuid>a44e01e2-9c2a-45a0-8719-1814e62da7a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Text-module--size-S--AI2gH Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn DetailsSection-module--itineraryLabel--Vp6XE</value>
-      <webElementGuid>a684698f-6814-488b-b8c2-66f2bab14f68</webElementGuid>
+      <webElementGuid>e12b0601-0e6e-4815-9e38-a174ba96e8e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Itinerary:</value>
-      <webElementGuid>208d064b-e227-4ce0-a9f2-b2cb3c36ea57</webElementGuid>
+      <webElementGuid>1086b38e-542f-416e-9865-a4cab1faaf98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ GridRow-module--grid-row--padded--fWrJ3&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-9--3CuBP GridColumn-module--grid-column--padded--TTiI2&quot;]/div[@class=&quot;ms-Stack css-160&quot;]/ul[@class=&quot;ResultsList-module--list--+ZCDo List-module--list-unstyled--OYpBm&quot;]/li[@class=&quot;ResultsListItem-module--container--3g6pa&quot;]/div[@class=&quot;ms-Stack css-185&quot;]/div[@class=&quot;ms-StackItem css-190&quot;]/div[@class=&quot;GridRow-module--grid-row--inJvQ DetailsSection-module--itinerary--LNGkU GridRow-module--grid-row--padded--fWrJ3&quot;]/span[@class=&quot;Text-module--size-S--AI2gH Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn DetailsSection-module--itineraryLabel--Vp6XE&quot;]</value>
-      <webElementGuid>a597248f-e789-4a59-8b05-85198a466bd7</webElementGuid>
+      <webElementGuid>fb468481-a285-41bf-98d4-cd04c821143e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/ul/li/div/div[2]/div[4]/span</value>
-      <webElementGuid>e7d1c6b7-f8d0-4bf1-91e6-5bb3cbf881b3</webElementGuid>
+      <webElementGuid>a7626421-22a2-4e3c-b718-ac1517a0f1b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Queen Anne'])[1]/following::span[1]</value>
-      <webElementGuid>62d89059-957b-4692-8f51-127a5ac10d0d</webElementGuid>
+      <webElementGuid>e5225d47-9b1d-44c1-a4ac-e0b36e1f62cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Europe'])[1]/following::span[2]</value>
-      <webElementGuid>c9423746-ab2a-4d8c-90c4-71c00ec9f214</webElementGuid>
+      <webElementGuid>9266cc24-c10b-454a-9fc1-ded715a4deeb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hamburg > Copenhagen > Visby > Tallinn > Helsinki > Stockholm > Kiel'])[1]/preceding::span[1]</value>
-      <webElementGuid>4de5edfa-3e45-411c-8f5a-a0d23b1eaf23</webElementGuid>
+      <webElementGuid>489bb46f-4f3a-482a-b0a0-f4b2afb73437</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PRICES FROM:'])[1]/preceding::span[2]</value>
-      <webElementGuid>e1b02004-d2cb-4bfe-9798-f47c5f834344</webElementGuid>
+      <webElementGuid>a786f54b-eb0d-4305-a031-a83b8db79642</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Itinerary:']/parent::*</value>
-      <webElementGuid>88a9ddd3-8e23-40db-814b-a878d71cd2c1</webElementGuid>
+      <webElementGuid>9e491ef2-c2af-470c-8c46-759048300e28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/span</value>
-      <webElementGuid>24e05762-9876-4dbd-9834-088b5b3d3a5f</webElementGuid>
+      <webElementGuid>a9cb40b5-5643-484d-a62d-e6d87d96489d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Itinerary:' or . = 'Itinerary:')]</value>
-      <webElementGuid>05b86df6-dca6-452c-965c-2274dcdd786f</webElementGuid>
+      <webElementGuid>5ec2a198-0c06-4b7c-a8c9-dfe482f0ddae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

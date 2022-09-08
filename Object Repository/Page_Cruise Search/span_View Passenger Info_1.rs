@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_View Passenger Info_1</name>
+   <tag></tag>
+   <elementGuidId>fe9bb273-3689-4cee-b3c2-6aa16e49169b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#id__5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='id__5']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8f45e29e-d2d3-4cc6-bf80-f200b2f5578b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Button-label label-120</value>
+      <webElementGuid>a3fa0964-e3c4-4caa-ae5a-9772e426bfc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id__5</value>
+      <webElementGuid>641fd929-7874-4925-9f33-c729f8732459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Passenger Info</value>
+      <webElementGuid>4bf629f1-4774-4e86-b804-3aad93ed230e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id__5&quot;)</value>
+      <webElementGuid>7f6a83d6-2acf-4019-b739-96d980a62498</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='id__5']</value>
+      <webElementGuid>e24a034a-f922-482e-9294-0a4fb4dc6312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/button/span/span/span</value>
+      <webElementGuid>c254eb6e-4af5-4b5f-961b-3cc8e7e6eab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travel Leaders Network Llc Add'])[1]/following::span[3]</value>
+      <webElementGuid>fc3e818a-fbd1-4cd2-ad01-f5891ee007d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rate Description:'])[1]/following::span[4]</value>
+      <webElementGuid>736ee6cf-8fe5-4440-8e28-03fbb77caf70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cabin-select'])[1]/preceding::span[1]</value>
+      <webElementGuid>3ba664a5-a897-49bf-8607-bf37dc6a6e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guaranteed Cabin'])[1]/preceding::span[1]</value>
+      <webElementGuid>56b3390c-e31f-4992-a1c3-15d8b96c1bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Passenger Info']/parent::*</value>
+      <webElementGuid>7de21b99-634f-4f13-b528-853f48a7e35a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span</value>
+      <webElementGuid>2985a858-fe0c-45ae-927b-4445298ef12e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'id__5' and (text() = 'View Passenger Info' or . = 'View Passenger Info')]</value>
+      <webElementGuid>99fd434c-00d1-49fa-898d-6c3a235d8f78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

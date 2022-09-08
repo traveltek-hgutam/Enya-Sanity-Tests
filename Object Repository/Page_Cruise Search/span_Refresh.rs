@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Refresh</name>
+   <tag></tag>
+   <elementGuidId>7e0413d1-cd66-4754-ad3f-719f8285d55d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ms-StackItem.css-242 > span.Text-module--size-S--AI2gH.Text-module--weight-normal--2NTO8.Text-module--text-gray--n4cFu.Text-module--font-normal--fJlvn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[4]/div/div/div[3]/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>56cdc7af-0471-4432-8b05-e85a3e0d7850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text-module--size-S--AI2gH Text-module--weight-normal--2NTO8 Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn</value>
+      <webElementGuid>021c0368-8daa-4ff6-939b-7bfec95e15c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Refresh</value>
+      <webElementGuid>1b40f348-56e2-4324-9387-572ab2e80dfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;ms-Stack css-241&quot;]/div[@class=&quot;ms-Stack css-243&quot;]/div[@class=&quot;ms-StackItem css-244&quot;]/div[@class=&quot;ms-StackItem css-245&quot;]/div[@class=&quot;ms-StackItem css-248&quot;]/div[@class=&quot;ms-Stack css-250&quot;]/div[@class=&quot;ms-StackItem css-242&quot;]/span[@class=&quot;Text-module--size-S--AI2gH Text-module--weight-normal--2NTO8 Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn&quot;]</value>
+      <webElementGuid>3391c98b-c6ae-4590-8f4d-d58b76b00653</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[4]/div/div/div[3]/div/div[2]/span</value>
+      <webElementGuid>c62f2e67-c687-4cd0-8aae-30c5dc328ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caribbean Princess'])[1]/following::span[3]</value>
+      <webElementGuid>8cffa2d6-80a4-4761-bb94-416f54ac5358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pricing Information'])[1]/preceding::span[1]</value>
+      <webElementGuid>86647361-ca85-49ca-99bc-887b29dc2a3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancellation Policy'])[1]/preceding::span[4]</value>
+      <webElementGuid>a2e1c3a8-f2cb-4015-85f5-10a2f6ae753e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Refresh']/parent::*</value>
+      <webElementGuid>d26d391b-0cb7-4970-800e-2ac3796b6905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>2cf5c5f9-435a-4d00-9bd5-101d4ea49b54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Refresh' or . = 'Refresh')]</value>
+      <webElementGuid>17017ded-5922-482d-8ad9-10dbee26dcbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

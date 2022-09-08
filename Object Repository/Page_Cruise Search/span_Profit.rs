@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Profit</name>
+   <tag></tag>
+   <elementGuidId>1ff7979e-bc5d-4ada-ab6e-57ebf9b5f09d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[4]/div[2]/div/div/div/div[4]/div/div[4]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7d0da3cf-b52a-4266-98b8-7eec3bf8ff3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text-module--size-S--AI2gH Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn</value>
+      <webElementGuid>8cfab3a9-d0a8-49ff-85b8-05b609df6adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profit</value>
+      <webElementGuid>af7b0572-3b70-4069-befb-31ef4f27ca1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;ms-Stack css-241&quot;]/div[@class=&quot;ms-Stack css-243&quot;]/div[@class=&quot;ms-Stack css-241&quot;]/div[@class=&quot;ms-StackItem css-115&quot;]/div[@class=&quot;ms-StackItem css-259&quot;]/div[@class=&quot;ms-Stack css-241&quot;]/div[@class=&quot;ms-StackItem css-260&quot;]/div[@class=&quot;ms-Stack css-247&quot;]/div[@class=&quot;ms-Stack css-249&quot;]/div[@class=&quot;ms-StackItem css-251&quot;]/span[@class=&quot;Text-module--size-S--AI2gH Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn&quot;]</value>
+      <webElementGuid>f2a7041a-54cd-4b04-8525-2536c6d79ac4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[4]/div[2]/div/div/div/div[4]/div/div[4]/div/span</value>
+      <webElementGuid>5c2573d1-14c9-4bed-9872-56966d558c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$150.00'])[1]/following::span[1]</value>
+      <webElementGuid>ac40a89c-73ae-4a79-b57c-f6c23962dd58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commission'])[1]/following::span[2]</value>
+      <webElementGuid>04f9ffbf-7ec2-4325-862b-4fa6749946d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$???.00'])[2]/preceding::span[1]</value>
+      <webElementGuid>fbdb103a-4c5e-43e5-90b0-82752e2e214e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nett Fare'])[1]/preceding::span[2]</value>
+      <webElementGuid>9ed7e42a-36ad-43df-bbbf-0e6b2719854d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profit']/parent::*</value>
+      <webElementGuid>f5286b25-8c5b-4123-a2f2-d7c820849556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[4]/div/span</value>
+      <webElementGuid>3b8b9dd1-ade6-4d38-9bcc-9a26d1855a24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Profit' or . = 'Profit')]</value>
+      <webElementGuid>75c4d639-408a-4140-9cd2-21b08cd7d1c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

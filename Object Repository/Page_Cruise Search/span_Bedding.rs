@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Bedding</name>
+   <tag></tag>
+   <elementGuidId>000ca00f-cfd9-4a3f-ae4c-3f6d2b24e4c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.Text-module--size-L--cXHo2.Text-module--weight-normal--2NTO8.Text-module--text-gray--n4cFu.Text-module--font-normal--fJlvn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/form/div[2]/div/div/h3/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ec27244d-54c6-4c56-8522-57e465e99c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text-module--size-L--cXHo2 Text-module--weight-normal--2NTO8 Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn</value>
+      <webElementGuid>aec36399-16ee-4496-b7ae-e01f6ac48d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bedding</value>
+      <webElementGuid>eca169c3-c322-4cb9-8076-2c01a84f9c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;ms-Stack css-98&quot;]/div[@class=&quot;ms-StackItem css-99&quot;]/form[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-auto--BIIV5&quot;]/div[@class=&quot;CabinPickerFormSection-module--select-wrapper--bMuGq&quot;]/h3[@class=&quot;Heading-module--title--V5kOu Heading-module--title-3--+D191 Heading-module--weight-bold--CkfKn&quot;]/span[@class=&quot;Text-module--size-L--cXHo2 Text-module--weight-normal--2NTO8 Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn&quot;]</value>
+      <webElementGuid>ea81a68e-41ee-449b-98c9-b3f5d95b983b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/form/div[2]/div/div/h3/span</value>
+      <webElementGuid>8ea20367-7809-4d4e-805d-f1c6c1794412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='port, aft, oceanview'])[1]/following::span[2]</value>
+      <webElementGuid>017a4c63-7b51-4abb-a325-ce1003a9604f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dolphin'])[1]/following::span[2]</value>
+      <webElementGuid>85bef804-c701-415d-9f4a-6dea1e34dd7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bedding Options'])[1]/preceding::span[1]</value>
+      <webElementGuid>99a43420-951b-498a-8af4-f94288ae562d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select bedding'])[1]/preceding::span[1]</value>
+      <webElementGuid>99e8a368-acbe-4ba7-8dd9-05208c41ebce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bedding']/parent::*</value>
+      <webElementGuid>85953f8f-a3c7-408a-ae88-9528ae409a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/h3/span</value>
+      <webElementGuid>df93bb5b-a53e-474d-80e3-1cde295f1e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Bedding' or . = 'Bedding')]</value>
+      <webElementGuid>1b3901f8-fe99-4a62-8522-c98a19fdbfa1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

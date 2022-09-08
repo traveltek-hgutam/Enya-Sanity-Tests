@@ -6,16 +6,56 @@
    <elementGuidId>00d1f84f-eff5-4c01-8651-334b393e5f05</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='id__20']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#id__20</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='id__20']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1d100795-5f3c-48ea-a468-51f8483a0c86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Button-label label-153</value>
+      <webElementGuid>99ecae08-51b7-4ae1-a087-109270f27d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id__20</value>
+      <webElementGuid>5475f866-f67e-4dd8-87d5-d5216ea70242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>3ea77f80-2111-4d44-974d-d3c4dbf40d1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id__20&quot;)</value>
+      <webElementGuid>2b3ce86e-93ff-4729-9a49-73c49e885f03</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +73,7 @@
       <webElementGuid>60cdb263-bb4c-4898-9480-6e740ce95555</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>365d283d-b462-4dab-8cd4-490984da7134</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='id__20']</value>
-      <webElementGuid>9e7780d1-6aa7-4128-980a-6adf89ebb6d7</webElementGuid>
+      <webElementGuid>9163b8ba-bbe1-4bfd-83eb-5d06f2b4dfb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='gatsby-focus-wrapper']/div/main/form/div/div/div[5]/button/span/span/span</value>
-      <webElementGuid>dd42c1d1-9745-49de-ae17-53a1840b6c0a</webElementGuid>
+      <webElementGuid>8cec4292-5f9e-447a-b0a9-858a372abcba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Any'])[2]/following::span[4]</value>
-      <webElementGuid>d51ed70b-ed5b-4346-ba2b-3d14ab216054</webElementGuid>
+      <webElementGuid>8b6bf1bf-7bfb-472f-8b45-f9bc1785bd1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Duration'])[1]/following::span[5]</value>
-      <webElementGuid>c74142bd-a08f-44ab-9439-fdfcef9e81c2</webElementGuid>
+      <webElementGuid>f1c6230a-5458-4090-a143-55e142120b60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Search'])[1]/preceding::span[1]</value>
-      <webElementGuid>93243da9-7582-44aa-908a-c80763a89e8e</webElementGuid>
+      <webElementGuid>2d35e799-4a20-4c0c-90e7-05ef4828ce19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'id__20', '&quot;', ')')])[1]/preceding::span[4]</value>
-      <webElementGuid>0f7dea24-19f8-4553-a10c-e0897f563aef</webElementGuid>
+      <webElementGuid>fb61c6e4-90de-4888-b42a-bfef201c6645</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
-      <webElementGuid>d835ad0d-adae-405f-9477-c48af0934687</webElementGuid>
+      <webElementGuid>e358d88d-68fb-4d53-b039-5ad1a034378b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span</value>
-      <webElementGuid>b841becf-3e65-4b5c-83c0-835e37101efb</webElementGuid>
+      <webElementGuid>385bcaf4-317f-46a0-84e6-7a6bed7ddf35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'id__20' and (text() = 'Search' or . = 'Search')]</value>
-      <webElementGuid>6578aea5-3741-4519-b342-33d4e6da8c24</webElementGuid>
+      <webElementGuid>16c1a8a3-0d8b-4cf4-b3b8-4b186c67dd89</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

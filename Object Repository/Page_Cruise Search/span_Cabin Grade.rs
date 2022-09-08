@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cabin Grade</name>
+   <tag></tag>
+   <elementGuidId>d9b001b3-a650-4605-8e32-a3304b4e1601</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='THN'])[1]/preceding::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#header16-cabinGrade-name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4a543b52-a723-4c3f-9736-0d7b83816bdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>header16-cabinGrade-name</value>
+      <webElementGuid>728fc441-a107-46fa-ba82-3bf4669f0ac9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-DetailsHeader-cellName cellName-165</value>
+      <webElementGuid>d141e857-9f04-4e2b-ad62-b9a36a81d02f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cabin Grade</value>
+      <webElementGuid>82d8af13-9b68-4723-8b46-4250b2c98c04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header16-cabinGrade-name&quot;)</value>
+      <webElementGuid>a9c8f64d-2d24-446b-b92c-65b7480885a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='header16-cabinGrade-name']</value>
+      <webElementGuid>84c446e3-9b3d-4c3c-b3f3-3b5c7fb77816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='header16-cabinGrade']/span</value>
+      <webElementGuid>608a8800-c692-4828-bfe0-b29f7c0fe5fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THN'])[1]/preceding::span[1]</value>
+      <webElementGuid>9fba383c-9a99-431c-a907-5275f9517588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THNNL1'])[1]/preceding::span[4]</value>
+      <webElementGuid>5d455a6d-0468-4cca-bd14-2780d25a36e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cabin Grade']/parent::*</value>
+      <webElementGuid>1ef3d980-49d2-43a1-9662-234b26a1e11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span/span</value>
+      <webElementGuid>79506c70-28ec-4c72-aff3-86ad12264d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'header16-cabinGrade-name' and (text() = 'Cabin Grade' or . = 'Cabin Grade')]</value>
+      <webElementGuid>d2a75ef8-b75f-447d-b506-3b4108ef0d03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

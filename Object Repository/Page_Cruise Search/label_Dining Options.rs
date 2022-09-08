@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Dining Options</name>
+   <tag></tag>
+   <elementGuidId>770ca2bf-12b6-4fcb-b708-e8719f03234d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dining-input-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='dining-input-label']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>07445f77-b888-4326-b612-ef7d17ec9368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Label ms-Dropdown-label root-181</value>
+      <webElementGuid>3890de07-3c6a-4e20-8a98-1469b5944efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dining-input-label</value>
+      <webElementGuid>102240e4-99aa-4c5d-a634-08e8c1eb211f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dining Options</value>
+      <webElementGuid>b77aa0b0-e638-47fc-a353-14ece5a0efd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dining-input-label&quot;)</value>
+      <webElementGuid>a0771543-d84e-4b4b-a74a-a3cc41002bf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='dining-input-label']</value>
+      <webElementGuid>1bd2e321-9915-47b6-9064-bf499d3d166c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/form/div[2]/div/div[3]/div[2]/label</value>
+      <webElementGuid>adde8189-501e-4beb-9f90-c6fa995be7e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dining'])[1]/following::label[1]</value>
+      <webElementGuid>69eae985-718e-4478-b3bf-a7c4040348af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select bedding'])[1]/following::label[1]</value>
+      <webElementGuid>24771ee0-6008-4ef3-a20b-19d6303da8b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select dining option'])[1]/preceding::label[1]</value>
+      <webElementGuid>4dd8d3a2-2c5f-4922-8e2d-cba83e81e109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Special Requests'])[1]/preceding::label[1]</value>
+      <webElementGuid>6deb3cb3-f2ac-4556-86a4-891f805300eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dining Options']/parent::*</value>
+      <webElementGuid>4731407e-7979-4840-ac64-a755d201a4fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/label</value>
+      <webElementGuid>b25bfabc-a780-4b18-bb4b-72cda606c486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'dining-input-label' and (text() = 'Dining Options' or . = 'Dining Options')]</value>
+      <webElementGuid>2d038d80-d3c0-407b-ab64-f77ec4785346</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

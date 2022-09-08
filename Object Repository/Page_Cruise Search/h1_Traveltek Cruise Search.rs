@@ -7,7 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='gatsby-focus-wrapper']/div/div/h1</value>
+         <value>//*/text()[normalize-space(.)='Traveltek Cruise Search']/parent::*</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Traveltek Cruise Search' or . = 'Traveltek Cruise Search')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>4b39eb1c-7c94-4725-b4b3-d5843300ac89</webElementGuid>
+      <webElementGuid>45796f8c-1600-469d-8549-a33b66a9c78f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Heading-module--title--V5kOu Heading-module--title-1--XBLzA Heading-module--weight-normal--lFvwH</value>
-      <webElementGuid>67a4d4be-80bd-4a77-824a-38221619376e</webElementGuid>
+      <webElementGuid>f0fffce2-b8ec-46d1-bd52-e431b25ee653</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Traveltek Cruise Search</value>
-      <webElementGuid>6db5a5ae-f9a2-4b03-bbd4-f4400fbaa5af</webElementGuid>
+      <webElementGuid>0ee570c5-778e-47f3-8e77-ff4e4033fafb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/div[@class=&quot;GenericLayout-module--header--jiLjT&quot;]/h1[@class=&quot;Heading-module--title--V5kOu Heading-module--title-1--XBLzA Heading-module--weight-normal--lFvwH&quot;]</value>
-      <webElementGuid>9dd94ae6-7b12-4d89-b042-baf49280fc7a</webElementGuid>
+      <webElementGuid>97eb15ac-02f5-49a6-8efc-19d475d5dc76</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='gatsby-focus-wrapper']/div/div/h1</value>
-      <webElementGuid>e4590e18-2d78-45e1-abfd-d78e2c7ee5ee</webElementGuid>
+      <webElementGuid>ed75c6f6-a674-4432-a2e0-092f0025e104</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::h1[1]</value>
-      <webElementGuid>1604901e-23d2-4c62-b49f-7fb9bb682d08</webElementGuid>
+      <webElementGuid>e716f7ef-54d7-4c7f-b865-db9da79d2858</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cruise Line'])[1]/preceding::h1[1]</value>
-      <webElementGuid>871ca8dd-51e5-487a-8cea-b6a3ed540832</webElementGuid>
+      <webElementGuid>740b2df2-05f3-4c3e-b755-803c7bc7114b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Traveltek Cruise Search']/parent::*</value>
-      <webElementGuid>27964879-849e-40ea-83cc-3e4864e43d39</webElementGuid>
+      <webElementGuid>bb3b5a64-bbb0-462d-a08c-ac556fea8bd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1</value>
-      <webElementGuid>fdb8fa5b-3199-4018-93ee-d5cd36648491</webElementGuid>
+      <webElementGuid>e967cbc7-1b99-4689-84c8-0a3f659c265b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Traveltek Cruise Search' or . = 'Traveltek Cruise Search')]</value>
-      <webElementGuid>2d4eb3b9-9cdd-467c-b0ce-baddbb959c96</webElementGuid>
+      <webElementGuid>1046c471-73de-4715-84c5-d859a1992e3b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes</name>
+   <tag></tag>
+   <elementGuidId>94d700d5-3adf-43e4-9b03-d11edf883efd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Round Trip:'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a741a4f1-eac2-4d6a-a611-2d03360f2407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text-module--size-S--AI2gH Text-module--weight-normal--2NTO8 Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn</value>
+      <webElementGuid>a79a47a2-8b19-4bec-a500-67f6386e41b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>ae23ecd6-66ba-4752-a47b-e497454813f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-4--GNmil&quot;]/dl[@class=&quot;DescriptionList-module--description-list--Xvfet&quot;]/div[@class=&quot;DescriptionListDisplay-module--datalist-container--ftU7Y&quot;]/dd[@class=&quot;DescriptionList-module--item-value--B5mfB&quot;]/span[@class=&quot;Text-module--size-S--AI2gH Text-module--weight-normal--2NTO8 Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn&quot;]</value>
+      <webElementGuid>95a34676-eedc-487b-a711-cb6f3d8d204e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[3]/div[2]/dl/div/dd/span</value>
+      <webElementGuid>d69a8ef8-6686-402a-b35a-0b49f2e0a05c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Round Trip:'])[1]/following::span[1]</value>
+      <webElementGuid>33571662-2a98-4a20-9d0b-5fff765b6714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sea Days:'])[1]/following::span[3]</value>
+      <webElementGuid>967668a0-73e8-473c-88ca-5be26a4c4e1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cruise Line:'])[1]/preceding::span[1]</value>
+      <webElementGuid>02d636cf-5eee-47e8-bdc9-1683f83c6301</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Princess Cruises'])[1]/preceding::span[2]</value>
+      <webElementGuid>9154fc1b-8566-4160-a9f6-1e84cfcd0ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
+      <webElementGuid>d3760c0e-c376-4bdc-817b-253fe2c38523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/dl/div/dd/span</value>
+      <webElementGuid>ce9d10fb-9ed3-4d9f-8ad4-305e2f7dbd76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>e4ae3ca1-ff5a-42f9-b46e-3245e13eab2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

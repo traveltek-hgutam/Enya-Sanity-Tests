@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_N342</name>
+   <tag></tag>
+   <elementGuidId>7e187484-fdc3-4bf7-ba0c-5347899574de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[4]/div/div/div[2]/div/div/div/dl[2]/div[5]/dd/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>39b80b07-b6a4-4d4b-9fc8-6b668d10a85b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text-module--size-S--AI2gH Text-module--weight-normal--2NTO8 Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn</value>
+      <webElementGuid>8a2dad46-fb06-4a4c-a113-7943bb81f06d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>N342</value>
+      <webElementGuid>a564a142-ea62-4245-9fd8-7788356ff7f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;ms-Stack css-241&quot;]/div[@class=&quot;ms-Stack css-243&quot;]/div[@class=&quot;ms-StackItem css-244&quot;]/div[@class=&quot;ms-StackItem css-245&quot;]/div[@class=&quot;ms-StackItem css-248&quot;]/div[@class=&quot;ms-Stack css-249&quot;]/div[@class=&quot;ms-StackItem css-115&quot;]/div[@class=&quot;ms-Stack css-247&quot;]/dl[@class=&quot;DescriptionList-module--description-list--Xvfet&quot;]/div[@class=&quot;DescriptionListDisplay-module--datalist-container--ftU7Y&quot;]/dd[@class=&quot;DescriptionList-module--item-value--B5mfB&quot;]/span[@class=&quot;Text-module--size-S--AI2gH Text-module--weight-normal--2NTO8 Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn&quot;]</value>
+      <webElementGuid>0691496c-4a61-4ee6-852e-c7e3018cc92e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[4]/div/div/div[2]/div/div/div/dl[2]/div[5]/dd/span</value>
+      <webElementGuid>5abca180-b695-4d6a-96be-d3faaeb40bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cruise Id:'])[1]/following::span[1]</value>
+      <webElementGuid>b57b9c02-f50a-4b66-8dcb-e92136de0691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Festive Day Pplus, Festive Day Pplus + more??'])[1]/following::span[2]</value>
+      <webElementGuid>942c8468-2198-4de4-b6be-1eaa97f80528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier Name:'])[1]/preceding::span[1]</value>
+      <webElementGuid>0cb4977d-3ebb-4d79-94d9-cff208295fb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Princess'])[1]/preceding::span[2]</value>
+      <webElementGuid>4e972b97-9b83-4115-904d-9ce26adfe2f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='N342']/parent::*</value>
+      <webElementGuid>703b639a-f008-48c1-8a60-e5c381d5a926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/dd/span</value>
+      <webElementGuid>b62a3458-ee3c-4c90-b2b2-bc5978dfab31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'N342' or . = 'N342')]</value>
+      <webElementGuid>d3d04cb8-58ea-4aaa-a9ec-05da1100d2d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

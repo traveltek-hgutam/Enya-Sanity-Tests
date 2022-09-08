@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dd_2</name>
+   <tag></tag>
+   <elementGuidId>af081f06-90e2-40df-9fa5-39043628f477</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sea Days:'])[1]/following::dd[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>dd</value>
+      <webElementGuid>963f4cae-55fa-4517-8ced-1e352564baac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DescriptionList-module--item-value--B5mfB</value>
+      <webElementGuid>bf57adb5-1cfc-45b1-82ef-a16db39bd570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>febd3ee8-c130-484d-b1fa-e0b2f2ba8b46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-4--GNmil&quot;]/dl[@class=&quot;DescriptionList-module--description-list--Xvfet&quot;]/div[@class=&quot;DescriptionListDisplay-module--datalist-container--ftU7Y&quot;]/dd[@class=&quot;DescriptionList-module--item-value--B5mfB&quot;]</value>
+      <webElementGuid>cb603f10-06cb-44c0-8e1b-cd23f178201a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[3]/div/dl/div[5]/dd</value>
+      <webElementGuid>64b0074e-5674-461a-9f3d-44b20f495c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sea Days:'])[1]/following::dd[1]</value>
+      <webElementGuid>bb6d478e-566c-47df-b701-09d46f5c35e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duration:'])[1]/following::dd[2]</value>
+      <webElementGuid>d9d06f45-a172-432e-a5b5-5c4dd2fddaca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Round Trip:'])[1]/preceding::dd[1]</value>
+      <webElementGuid>3b063943-8be4-4b4e-a340-5cc506e61db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::dd[1]</value>
+      <webElementGuid>c20afbb9-910f-45ee-ab75-254a2c46eccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/dd</value>
+      <webElementGuid>6b9213e5-241b-42b5-8396-b60f783daf90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//dd[(text() = '2' or . = '2')]</value>
+      <webElementGuid>86c2a8a3-13c1-479a-b1f5-e6649736eda6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

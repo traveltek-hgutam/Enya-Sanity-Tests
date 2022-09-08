@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Total</name>
+   <tag></tag>
+   <elementGuidId>7e7d00de-7030-4c20-9db6-a32245f91377</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ms-StackItem.css-251 > span.Text-module--size-S--AI2gH.Text-module--weight-bold--4V08K.Text-module--text-gray--n4cFu.Text-module--font-normal--fJlvn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[4]/div[2]/div/div/div/div[3]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>da9f1619-ff10-40d1-be8b-0b3d6a6e946e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text-module--size-S--AI2gH Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn</value>
+      <webElementGuid>61be8f18-9437-4f64-8f56-03b53f77ef47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total </value>
+      <webElementGuid>648506b0-e950-4556-87ad-cd0042bece24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;ms-Stack css-241&quot;]/div[@class=&quot;ms-Stack css-243&quot;]/div[@class=&quot;ms-Stack css-241&quot;]/div[@class=&quot;ms-StackItem css-115&quot;]/div[@class=&quot;ms-StackItem css-259&quot;]/div[@class=&quot;ms-Stack css-241&quot;]/div[@class=&quot;ms-StackItem css-262&quot;]/div[@class=&quot;ms-Stack css-250&quot;]/div[@class=&quot;ms-StackItem css-251&quot;]/span[@class=&quot;Text-module--size-S--AI2gH Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn&quot;]</value>
+      <webElementGuid>22aaf2c4-4cfe-4f42-9da2-0cd79e217cc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[4]/div[2]/div/div/div/div[3]/div/div/span</value>
+      <webElementGuid>926728ce-f70b-4124-9d74-1c21bccdcdb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-??.00'])[1]/following::span[1]</value>
+      <webElementGuid>0bed7d3f-ba68-4866-97dc-8b0a1edae71a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discount'])[1]/following::span[2]</value>
+      <webElementGuid>84da5e6e-9535-4fcc-9b77-f1c0b747dad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$3026.00'])[1]/preceding::span[1]</value>
+      <webElementGuid>e0d1a17f-2770-434b-94de-75a46b29f466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On-Board Credit'])[1]/preceding::span[2]</value>
+      <webElementGuid>f2cb72f6-9f88-4d74-a20d-3c6215932b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Total']/parent::*</value>
+      <webElementGuid>94fde61a-d0f8-45ac-a33d-b1f5603a84ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[3]/div/div/span</value>
+      <webElementGuid>85f8e7d9-47fc-4daf-af3a-70a4138442d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Total ' or . = 'Total ')]</value>
+      <webElementGuid>c1e63a04-ad84-476f-8876-8d0608326967</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

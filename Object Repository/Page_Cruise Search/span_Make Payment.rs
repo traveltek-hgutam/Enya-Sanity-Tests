@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Make Payment</name>
+   <tag></tag>
+   <elementGuidId>f932a633-70d9-4206-90c4-a46f9d17fc6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Make Payment']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id__140</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b9433cda-e41a-429d-97c4-0a14d9f2ee14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Button-label label-120</value>
+      <webElementGuid>ea9b95c2-7568-4456-89f7-370ac0dacc55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id__140</value>
+      <webElementGuid>99d0f33b-29d4-4d03-a8fc-c2cbb6c1a201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Make Payment</value>
+      <webElementGuid>8193d56c-956d-46ab-a878-d92077bec598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id__140&quot;)</value>
+      <webElementGuid>610ecadd-fd73-4f1e-9901-170c827b671b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='id__140']</value>
+      <webElementGuid>8af5654e-bfe8-40e8-aaee-2f2fd8095c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[5]/button/span/span/span</value>
+      <webElementGuid>b2ff2fee-04be-490f-a2ac-b77aacef8b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Details'])[1]/following::span[4]</value>
+      <webElementGuid>6a2043bb-e9f5-4542-b1bb-121bb82993b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger 4'])[1]/following::span[6]</value>
+      <webElementGuid>82c27c30-022d-434b-83d9-1325b644926d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Navigated to Traveltek Cruise Search'])[1]/preceding::span[1]</value>
+      <webElementGuid>faa63225-4c6a-44a6-9b96-938378fe207d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Make Payment']/parent::*</value>
+      <webElementGuid>911221c7-6ba1-4624-9e99-54113c6f9442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/span/span/span</value>
+      <webElementGuid>a9f67537-8cbb-4ee6-91a6-a72d261f9805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'id__140' and (text() = 'Make Payment' or . = 'Make Payment')]</value>
+      <webElementGuid>f56657fb-60d3-4d7b-8e37-b23fa23e27d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

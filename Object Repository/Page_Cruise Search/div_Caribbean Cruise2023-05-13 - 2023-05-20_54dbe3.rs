@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Caribbean Cruise2023-05-13 - 2023-05-20_54dbe3</name>
+   <tag></tag>
+   <elementGuidId>5fd64bef-bca6-4130-9da5-f15584a12671</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ms-Stack.css-247</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[4]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ff135717-ae51-4a93-bfa3-71cc2788fcfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Stack css-247</value>
+      <webElementGuid>7b98ec18-75ac-4de7-94a8-ee736290df5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Caribbean Cruise2023-05-13 - 2023-05-207 Nights4 Passengers</value>
+      <webElementGuid>47537225-8fc3-41c6-aee3-f431ca71fda7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;ms-Stack css-241&quot;]/div[@class=&quot;ms-Stack css-243&quot;]/div[@class=&quot;ms-StackItem css-244&quot;]/div[@class=&quot;ms-StackItem css-245&quot;]/div[@class=&quot;ms-StackItem css-246&quot;]/div[@class=&quot;ms-Stack css-247&quot;]</value>
+      <webElementGuid>8fb6f6e1-db5a-4fdf-8629-a13e8ad56de3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[4]/div/div/div/div</value>
+      <webElementGuid>5721d6ee-4d63-48e9-bed3-ccd0be17d9bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order/Basket Ref: why_no_id_returned'])[1]/following::div[5]</value>
+      <webElementGuid>dbb68405-cadc-473b-acc8-35a3aaf2c4b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order/Basket'])[1]/following::div[6]</value>
+      <webElementGuid>21559e16-bfc6-4f6c-8c26-d61cb9a00a49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Itinerary:'])[1]/preceding::div[2]</value>
+      <webElementGuid>0140f6e7-6336-4cd7-807f-909882bacc34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div</value>
+      <webElementGuid>cf1e3640-d8c5-49b6-ba70-2eca2cbc94b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Caribbean Cruise2023-05-13 - 2023-05-207 Nights4 Passengers' or . = 'Caribbean Cruise2023-05-13 - 2023-05-207 Nights4 Passengers')]</value>
+      <webElementGuid>700efd86-e531-4263-96f1-debf18385b16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

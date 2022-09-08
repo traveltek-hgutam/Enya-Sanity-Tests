@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dining</name>
+   <tag></tag>
+   <elementGuidId>38b5ca37-8a50-4952-b57f-5e2e6a38f7e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/form/div[2]/div/div[3]/h3/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0637546a-f7f1-430d-baf6-ba567523efc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text-module--size-L--cXHo2 Text-module--weight-normal--2NTO8 Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn</value>
+      <webElementGuid>d9abd643-85a5-4947-be9b-96cb437f078c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dining</value>
+      <webElementGuid>d9b8d557-99d0-4418-824a-ef1d20398b5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;ms-Stack css-98&quot;]/div[@class=&quot;ms-StackItem css-99&quot;]/form[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-auto--BIIV5&quot;]/div[@class=&quot;CabinPickerFormSection-module--select-wrapper--bMuGq&quot;]/h3[@class=&quot;Heading-module--title--V5kOu Heading-module--title-3--+D191 Heading-module--weight-bold--CkfKn&quot;]/span[@class=&quot;Text-module--size-L--cXHo2 Text-module--weight-normal--2NTO8 Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn&quot;]</value>
+      <webElementGuid>f53be628-4d6e-44f9-a807-d04e85f4e73a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/form/div[2]/div/div[3]/h3/span</value>
+      <webElementGuid>07c34222-97ec-4f89-b00a-ddf659d9fb28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select bedding'])[1]/following::span[2]</value>
+      <webElementGuid>c57e26fe-8a22-4a42-801e-6d443adbb996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bedding Options'])[1]/following::span[3]</value>
+      <webElementGuid>b761689a-d760-4fb8-8dec-cfca0155b050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dining Options'])[1]/preceding::span[1]</value>
+      <webElementGuid>245b53a8-97f4-4e29-80ee-f41e2aef5254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select dining option'])[1]/preceding::span[1]</value>
+      <webElementGuid>b7a392b1-c72a-4c4f-9e9d-a65a8b685617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dining']/parent::*</value>
+      <webElementGuid>45beac1b-c2d0-44af-9904-a7f30cd4f005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/h3/span</value>
+      <webElementGuid>33708f71-53de-4d1f-ad2d-0e687acbed6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dining' or . = 'Dining')]</value>
+      <webElementGuid>4d1643d5-25b5-49a8-bb5b-9fe41c3ca219</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

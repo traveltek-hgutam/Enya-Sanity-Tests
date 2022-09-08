@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Commission</name>
+   <tag></tag>
+   <elementGuidId>dfee2dd4-b6e6-400d-a63d-25bc9b5875ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[4]/div[2]/div/div/div/div[4]/div/div[3]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bef24fc5-4632-4aa8-a05c-2049f7591ef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text-module--size-S--AI2gH Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn</value>
+      <webElementGuid>6e06ddfa-7bf7-40ad-ab0b-89528fa84fd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Commission</value>
+      <webElementGuid>d6b52e1d-9a0e-46e3-ae66-42a0e67de12f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;ms-Stack css-241&quot;]/div[@class=&quot;ms-Stack css-243&quot;]/div[@class=&quot;ms-Stack css-241&quot;]/div[@class=&quot;ms-StackItem css-115&quot;]/div[@class=&quot;ms-StackItem css-259&quot;]/div[@class=&quot;ms-Stack css-241&quot;]/div[@class=&quot;ms-StackItem css-260&quot;]/div[@class=&quot;ms-Stack css-247&quot;]/div[@class=&quot;ms-Stack css-249&quot;]/div[@class=&quot;ms-StackItem css-251&quot;]/span[@class=&quot;Text-module--size-S--AI2gH Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn&quot;]</value>
+      <webElementGuid>0caf555b-ce4d-4835-90e8-654e29f72d45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[4]/div[2]/div/div/div/div[4]/div/div[3]/div/span</value>
+      <webElementGuid>d23d04d0-152e-4f87-8b5f-be15bc16168c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$???.00'])[1]/following::span[1]</value>
+      <webElementGuid>55a2dab7-49be-496e-9822-e66f94616f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deposit'])[1]/following::span[2]</value>
+      <webElementGuid>6977a387-5f74-4f84-bff4-fd15c5eca557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$150.00'])[1]/preceding::span[1]</value>
+      <webElementGuid>1e1e0e33-e331-4f15-be78-34546eda2eb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profit'])[1]/preceding::span[2]</value>
+      <webElementGuid>e9f60f98-d4de-475c-9593-349c01556820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Commission']/parent::*</value>
+      <webElementGuid>eeff3eae-f225-436e-8599-248a0265b4c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[3]/div/span</value>
+      <webElementGuid>d2e47dbe-9c25-4abb-977f-921b7d72ed8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Commission' or . = 'Commission')]</value>
+      <webElementGuid>773085c8-a221-4eb9-b6a9-75b5708e9449</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

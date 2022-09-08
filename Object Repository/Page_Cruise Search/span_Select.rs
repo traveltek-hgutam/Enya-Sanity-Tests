@@ -6,16 +6,56 @@
    <elementGuidId>93c0ba0f-3af5-4f12-9995-f36b3e427622</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='id__55']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#id__55</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='id__55']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b436cef3-cf88-438d-9629-6a837f7022ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Button-label label-152</value>
+      <webElementGuid>ef80e337-92ee-42f3-b4ab-186913fb4d63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id__55</value>
+      <webElementGuid>09b58824-877a-4f60-b2b9-ef3bcc9126fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>ade432de-20a8-48e2-9c56-fb4247e94491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id__55&quot;)</value>
+      <webElementGuid>46b883f3-711a-424b-9986-edccd7a9fbfc</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +73,7 @@
       <webElementGuid>329529b7-41b9-4c30-90e0-1a921cb18704</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>74a3e3cb-e6f2-4b1d-8a31-713524dd1bba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='id__55']</value>
-      <webElementGuid>de8c42bb-1221-484d-a622-f43cf9cf5cd6</webElementGuid>
+      <webElementGuid>48b1da37-5371-4a37-8a99-4c2e0de8603a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/ul/li/div/div[3]/div/div[4]/button/span/span/span</value>
-      <webElementGuid>85753989-5bed-4574-bddd-1c0c145b3cb6</webElementGuid>
+      <webElementGuid>9b6a974d-951c-4b04-9199-5c3f609c4244</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +118,55 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax is NOT included in pricing displayed'])[1]/following::span[3]</value>
-      <webElementGuid>c39b64b8-3c4c-4bbe-962f-98c97217a473</webElementGuid>
+      <webElementGuid>1422f0d0-a7aa-47e9-a512-b1f1fc75b34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call us to book... or something, tbc'])[1]/following::span[4]</value>
+      <webElementGuid>92e6f997-cd3d-4530-aaff-86f2ca05048a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Northern Europe Andscandinavia'])[2]/preceding::span[1]</value>
+      <webElementGuid>d3cc8278-16d5-4e91-83e8-9fd07692d84b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Europe'])[2]/preceding::span[4]</value>
+      <webElementGuid>76f7f575-3f6b-401a-b22d-7605777df060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select']/parent::*</value>
+      <webElementGuid>24cbc1b4-d029-4ebe-9598-a3aba6da5c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span</value>
+      <webElementGuid>70fae99c-b2fc-4700-8cda-4543cc881276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'id__55' and (text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>885e93b0-4374-466d-b1e4-b123f1e6e865</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,37 +183,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='British Isles With Orkney Islands'])[1]/preceding::span[1]</value>
       <webElementGuid>dc9dc5cc-b153-46ee-bc75-b41288483111</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Europe'])[2]/preceding::span[4]</value>
-      <webElementGuid>977f1515-0301-4784-9a01-8f50b18017aa</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Select']/parent::*</value>
-      <webElementGuid>4b28e11a-3664-4390-a23b-b08e2c43ebf1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//span/span/span</value>
-      <webElementGuid>f6afc58c-4ea6-45ba-b021-27be178bd659</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[@id = 'id__55' and (text() = 'Select' or . = 'Select')]</value>
-      <webElementGuid>c52cccc6-2244-4c19-8c27-e58ad2a5e857</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

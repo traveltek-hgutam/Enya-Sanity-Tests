@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_sailingsailing</name>
+   <tag></tag>
+   <elementGuidId>22d28a2e-3c88-4a67-a981-63a28851a31d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='results'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ms-Breadcrumb-item.item-105 > div.ms-TooltipHost.root-108</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca524bb1-a219-4581-a508-531d34cff971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-TooltipHost root-108</value>
+      <webElementGuid>e1111b6e-01f9-4ea7-9f54-3ca2465c298c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>2555e31e-3745-4348-b0f5-f2def07d80f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>sailingsailing</value>
+      <webElementGuid>7149e483-ea35-431e-9b5f-cce4b06c83d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;ms-Breadcrumb root-98&quot;]/div[@class=&quot;ms-FocusZone css-106&quot;]/ol[@class=&quot;ms-Breadcrumb-list list-99&quot;]/li[@class=&quot;ms-Breadcrumb-listItem listItem-100&quot;]/span[@class=&quot;ms-Breadcrumb-item item-105&quot;]/div[@class=&quot;ms-TooltipHost root-108&quot;]</value>
+      <webElementGuid>3e05f259-8102-439d-a4dd-31a618482623</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/div/div/div/div/ol/li[3]/span/div</value>
+      <webElementGuid>e56d81ef-a476-4f92-bb68-be35d897196f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='results'])[1]/following::div[1]</value>
+      <webElementGuid>9a40ccd0-1f4c-4077-bd73-2543328889b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='British Isles with Portland (for Stonehenge)'])[1]/preceding::div[2]</value>
+      <webElementGuid>30b61204-cbb5-4e04-afd3-bb6d0fa46dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='sailing']/parent::*</value>
+      <webElementGuid>d244d435-a909-4a61-a524-a35ec3c7f382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>9069e9ef-829e-4d5d-ac9f-54b543236062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'sailingsailing' or . = 'sailingsailing')]</value>
+      <webElementGuid>20dc71b8-0e6c-4560-924b-4b064a3bf426</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

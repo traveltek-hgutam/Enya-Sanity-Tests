@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Guaranteed Cabin</name>
+   <tag></tag>
+   <elementGuidId>067b0b0b-de15-4c8e-a014-ef8b13c375d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/form/fieldset/div/table/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>9c3f8f92-4bc3-4580-8d61-e30db060c679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Guaranteed Cabin</value>
+      <webElementGuid>6654d6bc-9dca-42ca-a89c-9f1edcfd5ccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;ms-Stack css-98&quot;]/div[@class=&quot;ms-StackItem css-99&quot;]/form[1]/fieldset[@class=&quot;RadioGroup-module--fieldSet--z7Pz6 RadioGroup-module--is-not-padded--ZTKo5&quot;]/div[@class=&quot;GridRow-module--grid-row--inJvQ CabinGuaranteedList-module--container--RznIT&quot;]/table[1]/tbody[1]/tr[1]/td[2]</value>
+      <webElementGuid>9734e075-d130-48b9-a1eb-eadf3d6bb889</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div/form/fieldset/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>374bea29-8dab-468f-8034-d28935c964cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cabin'])[1]/following::td[2]</value>
+      <webElementGuid>71590561-a152-4e8a-a389-e3f627f4e974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grade'])[1]/following::td[2]</value>
+      <webElementGuid>cbe7ae73-ec0d-44cd-b52e-4a4c56b5f038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guaranteed Cabin'])[3]/preceding::td[1]</value>
+      <webElementGuid>b987c8d7-16e4-4bb7-b0c0-eab48bb3d0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Cabin'])[1]/preceding::td[2]</value>
+      <webElementGuid>e6d82b0c-7c4a-462c-8727-d8632b33b712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>a44ec2f5-c6c4-4baa-9375-37303fe61805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Guaranteed Cabin' or . = 'Guaranteed Cabin')]</value>
+      <webElementGuid>acb81033-4e43-41f6-8faf-3c4887e5aee4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

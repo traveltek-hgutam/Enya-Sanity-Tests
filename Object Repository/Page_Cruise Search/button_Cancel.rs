@@ -6,12 +6,12 @@
    <elementGuidId>99269a96-41e3-4872-be85-99e0d1d500f6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[257]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.ms-Button.ms-Button--default.root-249</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,58 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5437dceb-4ab6-435c-925f-4804ed109df3</webElementGuid>
+      <webElementGuid>fc28be19-e72b-450f-b1a8-14e8c5c435e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>85fb953b-dc1b-4795-a810-62647c33d005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Button ms-Button--default root-249</value>
+      <webElementGuid>7d6b04ec-eb92-4474-ba53-6d9ebe26d57a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-is-focusable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0a59bd16-f4af-4a9f-a5ec-fd5d40a82fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>faa71135-9c7c-4efd-8a95-50dae57b6e92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ModalFocusTrapZone835&quot;)/div[@class=&quot;ms-Modal-scrollableContent scrollableContent-204&quot;]/form[1]/div[@class=&quot;ms-Stack css-239&quot;]/div[@class=&quot;ms-Stack css-248&quot;]/button[@class=&quot;ms-Button ms-Button--default root-249&quot;]</value>
+      <webElementGuid>cee78606-3822-4871-979d-834bc2dc145f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5437dceb-4ab6-435c-925f-4804ed109df3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -49,7 +97,7 @@
       <webElementGuid>d3ce4ae0-936d-451b-b0d1-4073972ab8f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -69,6 +117,62 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
+      <value>(//button[@type='button'])[258]</value>
+      <webElementGuid>c9b8f5bc-35b3-4296-bfc3-fe0cb791f1c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div[5]/button</value>
+      <webElementGuid>c6d831d1-2bc5-4d86-ac18-c50bb018d00c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessible Cabins'])[1]/following::button[1]</value>
+      <webElementGuid>3752e7da-c1a2-441d-93d6-dc0b0dea3196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cabins'])[1]/following::button[1]</value>
+      <webElementGuid>0b81e9f1-2d12-49ce-ae43-d41f965f943a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/preceding::button[1]</value>
+      <webElementGuid>5e78ae35-6e54-4a19-9727-c0f0f134dba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>e1727d88-9fed-42cd-8f1f-5eb4c6b5bd85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>ed9f3be2-c5bb-4e44-ace9-6ce4e9cf1064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
       <value>(//button[@type='button'])[257]</value>
       <webElementGuid>365383f0-c2fe-4e13-978c-03c96bd6e826</webElementGuid>
    </webElementXpaths>
@@ -79,45 +183,5 @@
       <type>Main</type>
       <value>//div[@id='ModalFocusTrapZone817']/div[2]/form/div/div[5]/button</value>
       <webElementGuid>43dc509f-78e6-4c98-97bb-e799455e7a2f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessible Cabins'])[1]/following::button[1]</value>
-      <webElementGuid>d1f56e85-d07e-4285-8721-654f186ec3a1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cabins'])[1]/following::button[1]</value>
-      <webElementGuid>621af686-cb12-4a89-ba2b-d55b649b5dcb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/preceding::button[1]</value>
-      <webElementGuid>ba52f58a-4493-46d9-906d-5004e902e056</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[5]/button</value>
-      <webElementGuid>a616b294-4a1c-43bb-a5cf-56286f7b8a46</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
-      <webElementGuid>db305451-f648-494c-8abd-20f2352f012d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

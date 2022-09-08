@@ -6,16 +6,48 @@
    <elementGuidId>f815cf0f-28d9-418f-8f76-0e3279185a5c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='id__3021']</value>
+         <key>CSS</key>
+         <value>div.ms-Stack.css-248 > button.ms-Button.ms-Button--primary.root-148 > span.ms-Button-flexContainer.flexContainer-149 > span.ms-Button-textContainer.textContainer-150</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#id__3021</value>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d00f399e-4291-4b94-85ee-0f42843cdffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Button-textContainer textContainer-150</value>
+      <webElementGuid>cd0e7d52-d12a-4825-addd-2ca7718e38dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm</value>
+      <webElementGuid>19e58ef5-4927-4e58-9737-518bd56b8f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ModalFocusTrapZone835&quot;)/div[@class=&quot;ms-Modal-scrollableContent scrollableContent-204&quot;]/form[1]/div[@class=&quot;ms-Stack css-239&quot;]/div[@class=&quot;ms-Stack css-248&quot;]/button[@class=&quot;ms-Button ms-Button--primary root-148&quot;]/span[@class=&quot;ms-Button-flexContainer flexContainer-149&quot;]/span[@class=&quot;ms-Button-textContainer textContainer-150&quot;]</value>
+      <webElementGuid>755f6dfb-5ff9-49fc-8063-6881a72c7fcd</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +65,7 @@
       <webElementGuid>76ee899e-c7ba-49f9-bc50-d88018ce4de1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -41,7 +73,7 @@
       <webElementGuid>e9932318-3102-49f4-a970-7b22a087b1d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -58,6 +90,46 @@
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div[5]/button[2]/span/span</value>
+      <webElementGuid>cc816625-70e5-479a-b2fc-f3c94802759e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[2]</value>
+      <webElementGuid>db10b6f3-bdbd-4f34-9ede-d46237ff8206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessible Cabins'])[1]/following::span[5]</value>
+      <webElementGuid>bd762533-7b59-4554-a749-03016f68cc72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span/span</value>
+      <webElementGuid>0c810cfc-8761-436d-8ba6-8acec52e32e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Confirm' or . = 'Confirm')]</value>
+      <webElementGuid>524c2134-a85e-4ae1-98f7-ee5d3afeb9da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>

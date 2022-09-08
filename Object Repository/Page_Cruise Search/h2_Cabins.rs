@@ -6,16 +6,47 @@
    <elementGuidId>45e791dd-0801-4b41-97c2-76a394efd31b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='ModalFocusTrapZone817']/div[2]/form/div/div[4]/h2</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Cabins']/parent::*</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>66ee68e8-7b2e-412d-b808-634327f5168a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>results-module--modal-headings--+5iOZ</value>
+      <webElementGuid>409c32b8-3621-46bd-8e0a-e71900dffdc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cabins</value>
+      <webElementGuid>f8be4760-83d3-43f7-b793-010342c18e7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ModalFocusTrapZone835&quot;)/div[@class=&quot;ms-Modal-scrollableContent scrollableContent-204&quot;]/form[1]/div[@class=&quot;ms-Stack css-239&quot;]/div[@class=&quot;ms-Stack css-162&quot;]/h2[@class=&quot;results-module--modal-headings--+5iOZ&quot;]</value>
+      <webElementGuid>a677c53c-83d6-4a42-8256-0e33edc79de6</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +64,7 @@
       <webElementGuid>4808c9b6-d564-4028-9fb6-81d2c43039cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -53,8 +84,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='ModalFocusTrapZone817']/div[2]/form/div/div[4]/h2</value>
-      <webElementGuid>0d3d044f-d9fb-4a99-a0a4-0ede7dd9c308</webElementGuid>
+      <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div[4]/h2</value>
+      <webElementGuid>7e1f1afb-d3df-474c-8004-4bacc081ef8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Rates'])[1]/following::h2[1]</value>
-      <webElementGuid>ad396248-994f-4624-867f-3470c87ccc92</webElementGuid>
+      <webElementGuid>96962dbb-1c47-4255-8a5c-2cc91a84999c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Military Rates'])[1]/following::h2[1]</value>
-      <webElementGuid>0fededaf-3827-4785-8822-3e47fe95c5dc</webElementGuid>
+      <webElementGuid>1f27bf17-1de1-44ec-afd0-eb34d81a00d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessible Cabins'])[1]/preceding::h2[1]</value>
-      <webElementGuid>291784cb-ffc6-478f-8b60-82382623f1cb</webElementGuid>
+      <webElementGuid>c2a5a49b-ab0a-4e6b-baa9-427ca0f32257</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::h2[1]</value>
-      <webElementGuid>483fe1e7-5f2a-4657-985d-5636c7851b63</webElementGuid>
+      <webElementGuid>a83c46cd-2bf5-453d-9db2-0307a3e60de5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cabins']/parent::*</value>
-      <webElementGuid>a81d8532-fc9b-409e-9ba5-646de9aae0cd</webElementGuid>
+      <webElementGuid>af4bc3af-73bf-44c7-b893-64ab53cbac63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/h2</value>
-      <webElementGuid>b20adbc9-a40b-4956-a5d2-8a5bd13bd68e</webElementGuid>
+      <webElementGuid>ff039955-0175-46d1-8f61-d617f5618a38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +141,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Cabins' or . = 'Cabins')]</value>
-      <webElementGuid>8c78ba67-5ad8-4f9b-8dec-002aed2e68e0</webElementGuid>
+      <webElementGuid>48e2aaa4-2d10-42b5-a9e8-1d691034fbe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ModalFocusTrapZone817']/div[2]/form/div/div[4]/h2</value>
+      <webElementGuid>0d3d044f-d9fb-4a99-a0a4-0ede7dd9c308</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

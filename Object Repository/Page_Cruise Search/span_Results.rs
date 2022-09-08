@@ -7,7 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/div[2]/div/h2/span</value>
+         <value>//*/text()[normalize-space(.)='Results']/parent::*</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Results' or . = 'Results')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8d06ad35-66c6-4aec-afca-b7e1d26ba478</webElementGuid>
+      <webElementGuid>1300e2d6-811a-485e-b503-c98c4cab2c25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Text-module--size-XL--w-jB3 Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn</value>
-      <webElementGuid>15883467-da5e-4e08-945a-fd566cf45ebd</webElementGuid>
+      <webElementGuid>2f6c2cb0-9ada-4630-bf2f-807187a2ecfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Results</value>
-      <webElementGuid>7557e3bb-b21a-45cf-87ac-c7a86ac76fc4</webElementGuid>
+      <webElementGuid>08e7b013-dcbc-45e4-b919-511a8ca8af70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;gatsby-focus-wrapper&quot;)/div[@class=&quot;GenericLayout-module--container--9rlo1&quot;]/main[1]/div[@class=&quot;GridRow-module--grid-row--inJvQ GridRow-module--grid-row--padded--fWrJ3&quot;]/div[@class=&quot;GridColumn-module--grid-column--fqCL9 GridColumn-module--size-9--3CuBP GridColumn-module--grid-column--padded--TTiI2&quot;]/div[@class=&quot;ms-Stack css-160&quot;]/div[@class=&quot;ms-Stack css-182&quot;]/div[@class=&quot;ms-StackItem css-183&quot;]/h2[@class=&quot;Heading-module--title--V5kOu Heading-module--title-2--cdX8G Heading-module--weight-normal--lFvwH&quot;]/span[@class=&quot;Text-module--size-XL--w-jB3 Text-module--weight-bold--4V08K Text-module--text-gray--n4cFu Text-module--font-normal--fJlvn&quot;]</value>
-      <webElementGuid>3c4b09db-9de6-4cda-be28-37ef4b932175</webElementGuid>
+      <webElementGuid>bc2070ab-0fd0-48d4-b2e5-10df166abae4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='gatsby-focus-wrapper']/div/main/div/div[2]/div/div[2]/div/h2/span</value>
-      <webElementGuid>e2ab7f3e-b2d0-41c7-8f39-9ba6c7500de6</webElementGuid>
+      <webElementGuid>31cd95ff-0452-4660-b929-ef4ef2a3f19b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,15 +66,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='results'])[1]/following::span[1]</value>
-      <webElementGuid>1e7f342b-5180-4dab-a7a5-0f9b4e75db34</webElementGuid>
+      <webElementGuid>8ac4f381-773a-436f-bd1f-bf76c632287f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(found: 979, showing: 979)'])[1]/preceding::span[1]</value>
-      <webElementGuid>6920130e-949b-42c9-8f7d-88bb7ae88b21</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(found: 980, showing: 980)'])[1]/preceding::span[1]</value>
+      <webElementGuid>9ad41a01-9bfb-40fc-9cc7-09400056275f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Northern Europe Andscandinavia'])[1]/preceding::span[2]</value>
-      <webElementGuid>4b9bfedb-e5e8-48f4-a791-d99bc1e2e7ce</webElementGuid>
+      <webElementGuid>8fe2841a-a2f7-4339-afe3-1f5f09deae7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Results']/parent::*</value>
-      <webElementGuid>5e7a106c-17b9-4da0-8b81-310590f8d967</webElementGuid>
+      <webElementGuid>39be9dbc-bf19-47f2-be57-32d21b8cdb95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/h2/span</value>
-      <webElementGuid>80372d39-22ec-4c4f-b556-7c2654ea3089</webElementGuid>
+      <webElementGuid>bd7d9acd-672e-4316-9d70-6cb01f7d04ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Results' or . = 'Results')]</value>
-      <webElementGuid>51fd695c-7e03-4e9e-bff5-947511cfc801</webElementGuid>
+      <webElementGuid>0d1ecc86-d3ef-4e9f-9a5c-490c1458a63d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(found: 979, showing: 979)'])[1]/preceding::span[1]</value>
+      <webElementGuid>156ee4be-20ed-44bd-bcdd-38c5f86873d5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

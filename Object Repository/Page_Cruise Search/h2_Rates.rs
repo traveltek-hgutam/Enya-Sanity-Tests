@@ -6,16 +6,47 @@
    <elementGuidId>13654cee-31f2-48d9-989b-942bed260501</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='ModalFocusTrapZone817']/div[2]/form/div/div[3]/h2</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger 2'])[1]/following::h2[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>d5f3d3a7-1f5f-4620-af7d-9249ad9d40e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>results-module--modal-headings--+5iOZ</value>
+      <webElementGuid>e7002170-5b4b-47de-a685-1efa2ed5d8ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rates</value>
+      <webElementGuid>604ecb12-c8bf-4950-af64-0522415c98f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ModalFocusTrapZone835&quot;)/div[@class=&quot;ms-Modal-scrollableContent scrollableContent-204&quot;]/form[1]/div[@class=&quot;ms-Stack css-239&quot;]/div[@class=&quot;ms-Stack css-162&quot;]/h2[@class=&quot;results-module--modal-headings--+5iOZ&quot;]</value>
+      <webElementGuid>6f524ef6-6365-4224-89c2-84bc1744313d</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +64,7 @@
       <webElementGuid>416a3ff0-8aef-4830-9899-406f0e272cc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -53,8 +84,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='ModalFocusTrapZone817']/div[2]/form/div/div[3]/h2</value>
-      <webElementGuid>6ddca817-ceb0-4da3-b0f1-e1cf03645ea2</webElementGuid>
+      <value>//div[@id='ModalFocusTrapZone835']/div[2]/form/div/div[3]/h2</value>
+      <webElementGuid>2f0a1250-1020-42b8-a546-15cb9d315fad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger 2'])[1]/following::h2[1]</value>
-      <webElementGuid>7cddca7e-da9d-46cd-88de-d5f9a42c0828</webElementGuid>
+      <webElementGuid>d61ea09e-9f8b-48b2-ac6a-c758a4a3f3eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Passenger 1'])[1]/following::h2[1]</value>
-      <webElementGuid>1ed9a8b7-0236-45eb-b0c1-281fb323c079</webElementGuid>
+      <webElementGuid>7432fd8c-9a05-4d07-9922-4a15788c6261</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Military Rates'])[1]/preceding::h2[1]</value>
-      <webElementGuid>77922f4f-9951-428e-b817-42b7f192ede5</webElementGuid>
+      <webElementGuid>00cad360-6f28-4805-b3da-72ee41c9a6ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Residential Rates'])[1]/preceding::h2[1]</value>
-      <webElementGuid>9584b62a-2d7e-4966-a4a7-af69a50f418d</webElementGuid>
+      <webElementGuid>708108de-9adb-4b6e-899e-20942e15e02c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Rates']/parent::*</value>
-      <webElementGuid>b7427d1d-8e6f-4176-ba98-dda07094cc34</webElementGuid>
+      <webElementGuid>886963eb-0596-4bb6-b1e0-14a16f7ae4ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/h2</value>
-      <webElementGuid>6d2ce94f-e22c-4e6f-92c6-9f1bd41991fb</webElementGuid>
+      <webElementGuid>d80aac17-5668-4688-aae7-b9fbd21de6e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +141,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Rates' or . = 'Rates')]</value>
-      <webElementGuid>26cbe46a-37a5-44ed-ab18-7a0ebd658080</webElementGuid>
+      <webElementGuid>bb99688e-09f9-472c-beea-e73384c2c3cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ModalFocusTrapZone817']/div[2]/form/div/div[3]/h2</value>
+      <webElementGuid>6ddca817-ceb0-4da3-b0f1-e1cf03645ea2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
