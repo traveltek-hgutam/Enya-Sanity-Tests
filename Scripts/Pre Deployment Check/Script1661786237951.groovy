@@ -25,7 +25,7 @@ import com.github.kklisura.cdt.protocol.types.runtime.RemoteObject as RemoteObje
 import com.github.kklisura.cdt.services.ChromeDevToolsService as ChromeDevToolsService
 import com.google.gson.Gson as Gson
 import com.google.gson.GsonBuilder as GsonBuilder
-import com.katalon.cdp.CdpUtils
+//import com.katalon.cdp.CdpUtils
 import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import org.openqa.selenium.WebDriver as WebDriver
@@ -35,38 +35,37 @@ import com.kms.katalon.core.webui.driver.WebUIDriverType as WebUIDriverType
 
 Gson gson = new GsonBuilder().setPrettyPrinting().create()
 
-WebUIDriverType executedBrowser = DriverFactory.getExecutedBrowser()
 
 WebUI.openBrowser('')
 
-ChromeDevToolsService devToolsService = CdpUtils.getService()
-
-/** Get indivisual CDP commands */
-Page page = devToolsService.getPage()
-
-Runtime runtime = devToolsService.getRuntime()
-
-page.enable()
-
-runtime.enable()
-
-/** Listen to the events that JavaScript console.log(msg) was called on the web page */
-runtime.onConsoleAPICalled({ ConsoleAPICalled event ->
-        // println gson.toJson(event)     // for debug
-        ConsoleAPICalledType type = event.getType()
-
-        List<RemoteObject> args = event.getArgs()
-
-        for (def rm : args) {
-            KeywordUtil.logInfo(">>>$type.toString() $rm.getValue()")
-        }
-    })
-
-/** Wait for on load event */
-page.onLoadEventFired({ def event ->
-        // Evaluate javascript
-        devToolsService.close()
-    })
+//ChromeDevToolsService devToolsService = CdpUtils.getService()
+//
+///** Get indivisual CDP commands */
+//Page page = devToolsService.getPage()
+//
+//Runtime runtime = devToolsService.getRuntime()
+//
+//page.enable()
+//
+//runtime.enable()
+//
+///** Listen to the events that JavaScript console.log(msg) was called on the web page */
+//runtime.onConsoleAPICalled({ ConsoleAPICalled event ->
+//        // println gson.toJson(event)     // for debug
+//        ConsoleAPICalledType type = event.getType()
+//
+//        List<RemoteObject> args = event.getArgs()
+//
+//        for (def rm : args) {
+//            KeywordUtil.logInfo(">>>$type.toString() $rm.getValue()")
+//        }
+//    })
+//
+///** Wait for on load event */
+//page.onLoadEventFired({ def event ->
+//        // Evaluate javascript
+//        devToolsService.close()
+//    })
 
 WebUI.navigateToUrl(GlobalVariable.urlCruise)
 
@@ -458,9 +457,9 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Cruise Search/
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Cruise Search/span_Caribbean Princess'), 0)
 
-devToolsService.waitUntilClosed()
-
-WebUI.delay(3)
+//devToolsService.waitUntilClosed()
+//
+//WebUI.delay(3)
 
 WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
 
